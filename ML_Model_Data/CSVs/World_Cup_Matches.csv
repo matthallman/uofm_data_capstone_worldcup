@@ -1,15 +1,15 @@
 Match,Squad 1,Squad 1 Key,Squad 2,Squad 2 Key,Group,Stage
 1,Qatar,2021-Gold Cup-Qatar,Ecuador,2022-CONMEBOL WCQ-Ecuador,A,Group
-2,Senegal,2021-Africa Cup of Nations-Senegal,Netherlands,2022-UEFA WCQ-Netherlands,A,Group
+2,Senegal,2021-Africa Cup of Nations-Senegal,Netherlands,2021-UEFA Euro Qualifiers-Netherlands,A,Group
 3,Qatar,2021-Gold Cup-Qatar,Senegal,2021-Africa Cup of Nations-Senegal,A,Group
-4,Netherlands,2022-UEFA WCQ-Netherlands,Ecuador,2022-CONMEBOL WCQ-Ecuador,A,Group
-5,Netherlands,2022-UEFA WCQ-Netherlands,Qatar,2021-Gold Cup-Qatar,A,Group
+4,Netherlands,2021-UEFA Euro Qualifiers-Netherlands,Ecuador,2022-CONMEBOL WCQ-Ecuador,A,Group
+5,Netherlands,2021-UEFA Euro Qualifiers-Netherlands,Qatar,2021-Gold Cup-Qatar,A,Group
 6,Ecuador,2022-CONMEBOL WCQ-Ecuador,Senegal,2021-Africa Cup of Nations-Senegal,A,Group
-7,England,2022-UEFA WCQ-England,Iran,2019-AFC Asian Cup-Iran,B,Group
+7,England,2021-UEFA Euro Qualifiers-England,Iran,2019-AFC Asian Cup-Iran,B,Group
 8,United States,2021-Gold Cup-United States,Wales,2022-UEFA WCQ-Wales,B,Group
 9,Wales,2022-UEFA WCQ-Wales,Iran,2019-AFC Asian Cup-Iran,B,Group
-10,England,2022-UEFA WCQ-England,United States,2021-Gold Cup-United States,B,Group
-11,Wales,2022-UEFA WCQ-Wales,England,2022-UEFA WCQ-England,B,Group
+10,England,2021-UEFA Euro Qualifiers-England,United States,2021-Gold Cup-United States,B,Group
+11,Wales,2022-UEFA WCQ-Wales,England,2021-UEFA Euro Qualifiers-England,B,Group
 12,Iran,2019-AFC Asian Cup-Iran,United States,2021-Gold Cup-United States,B,Group
 13,Argentina,2022-CONMEBOL WCQ-Argentina,Saudi Arabia,2019-AFC Asian Cup-Saudi Arabia,C,Group
 14,Mexico,2021-Gold Cup-Mexico,Poland,2022-UEFA WCQ-Poland,C,Group
