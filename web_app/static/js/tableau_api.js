@@ -22,7 +22,7 @@ $(document).ready(function() {
 
 function initializeViz() {
     var placeholderDiv = document.getElementById("tableauViz");
-    var url = "https://public.tableau.com/views/AirlineSafetyJune2022/Dashboard1";
+    var url = "https://public.tableau.com/views/FIFA2022WorldCupQualifying/WCQSummaryStory";
     var options = {
         width: placeholderDiv.offsetWidth,
         height: placeholderDiv.offsetHeight,
