@@ -1,4 +1,4 @@
-Squad,Association,Date qualified,Most Recent Competition,Key,Group
+Squad,Association,Date qualified,Key Competition,Key,Group
 Qatar,AFC,2-Dec-10,2021 Gold Cup,2021-Gold Cup-Qatar,A
 Iran,AFC,27-Jan-22,2019 AFC Asian Cup,2019-AFC Asian Cup-Iran,B
 South Korea,AFC,1-Feb-22,2019 AFC Asian Cup,2019-AFC Asian Cup-South Korea,H
@@ -9,25 +9,25 @@ Ghana,CAF,29-Mar-22,2021 Africa Cup of Nations,2021-Africa Cup of Nations-Ghana,
 Senegal,CAF,29-Mar-22,2021 Africa Cup of Nations,2021-Africa Cup of Nations-Senegal,A
 Tunisia,CAF,29-Mar-22,2021 Africa Cup of Nations,2021-Africa Cup of Nations-Tunisia,D
 Cameroon,CAF,29-Mar-22,2021 Africa Cup of Nations,2021-Africa Cup of Nations-Cameroon,G
-Morocco,CAF,29-Mar-22,2021 Africa Cup of Nations,2021-Africa Cup of Nations-Morocco,F
+Morocco,CAF,29-Mar-22,2021 Africa Cup of Nations,2019-Africa Cup of Nations-Morocco,F
 Canada,CONCACAF,27-Mar-22,2021 Gold Cup,2021-Gold Cup-Canada,F
 Mexico,CONCACAF,30-Mar-22,2021 Gold Cup,2021-Gold Cup-Mexico,C
 United States,CONCACAF,30-Mar-22,2021 Gold Cup,2021-Gold Cup-United States,B
 Costa Rica,CONCACAF,14-Jun-22,2021 Gold Cup,2021-Gold Cup-Costa Rica,E
-Brazil,CONMEBOL,11-Nov-21,2022 CONCACAF WCQ,2022-CONMEBOL WCQ-Brazil,G
-Argentina,CONMEBOL,16-Nov-21,2022 CONCACAF WCQ,2022-CONMEBOL WCQ-Argentina,C
-Ecuador,CONMEBOL,24-Mar-22,2022 CONCACAF WCQ,2022-CONMEBOL WCQ-Ecuador,A
-Uruguay,CONMEBOL,24-Mar-22,2022 CONCACAF WCQ,2022-CONMEBOL WCQ-Uruguay,H
-Germany,UEFA,11-Oct-21,2022 EUFA WCQ,2022-UEFA WCQ-Germany,E
-Denmark,UEFA,12-Oct-21,2022 EUFA WCQ,2022-UEFA WCQ-Denmark,D
-Belgium,UEFA,13-Nov-21,2022 EUFA WCQ,2022-UEFA WCQ-Belgium,F
-France,UEFA,13-Nov-21,2022 EUFA WCQ,2022-UEFA WCQ-France,D
-Croatia,UEFA,14-Nov-21,2022 EUFA WCQ,2022-UEFA WCQ-Croatia,F
-Spain,UEFA,14-Nov-21,2022 EUFA WCQ,2022-UEFA WCQ-Spain,E
-Serbia,UEFA,14-Nov-21,2022 EUFA WCQ,2022-UEFA WCQ-Serbia,G
-England,UEFA,15-Nov-21,2022 EUFA WCQ,2021-UEFA Euro Qualifiers-England,B
-Switzerland,UEFA,15-Nov-21,2022 EUFA WCQ,2022-UEFA WCQ-Switzerland,G
-Netherlands,UEFA,16-Nov-21,2022 EUFA WCQ,2021-UEFA Euro Qualifiers-Netherlands,A
-Portugal,UEFA,29-Mar-22,2022 EUFA WCQ,2022-UEFA WCQ-Portugal,H
-Poland,UEFA,29-Mar-22,2022 EUFA WCQ,2022-UEFA WCQ-Poland,C
-Wales,UEFA,5-Jun-22,2022 EUFA WCQ,2022-UEFA WCQ-Wales,B
+Brazil,CONMEBOL,11-Nov-21,2021 Copa America,2021-Copa America-Brazil,G
+Argentina,CONMEBOL,16-Nov-21,2021 Copa America,2021-Copa America-Argentina,C
+Ecuador,CONMEBOL,24-Mar-22,2021 Copa America,2021-Copa America-Ecuador,A
+Uruguay,CONMEBOL,24-Mar-22,2021 Copa America,2021-Copa America-Uruguay,H
+Germany,UEFA,11-Oct-21,2021 UEFA Euros,2021-UEFA Euros-Germany,E
+Denmark,UEFA,12-Oct-21,2021 UEFA Euros,2021-UEFA Euros-Denmark,D
+Belgium,UEFA,13-Nov-21,2021 UEFA Euros,2021-UEFA Euros-Belgium,F
+France,UEFA,13-Nov-21,2021 UEFA Euros,2021-UEFA Euros-France,D
+Croatia,UEFA,14-Nov-21,2021 UEFA Euros,2021-UEFA Euros-Croatia,F
+Spain,UEFA,14-Nov-21,2021 UEFA Euros,2021-UEFA Euros-Spain,E
+Serbia,UEFA,14-Nov-21,2021 UEFA Euro Qualifiers,2021-UEFA Euro Qualifiers-Serbia,G
+England,UEFA,15-Nov-21,2021 UEFA Euros,2021-UEFA Euros-England,B
+Switzerland,UEFA,15-Nov-21,2021 UEFA Euros,2021-UEFA Euros-Switzerland,G
+Netherlands,UEFA,16-Nov-21,2021 UEFA Euros,2021-UEFA Euros-Netherlands,A
+Portugal,UEFA,29-Mar-22,2021 UEFA Euros,2021-UEFA Euros-Portugal,H
+Poland,UEFA,29-Mar-22,2021 UEFA Euros,2021-UEFA Euros-Poland,C
+Wales,UEFA,5-Jun-22,2021 UEFA Euros,2021-UEFA Euros-Wales,B
