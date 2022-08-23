@@ -1,0 +1,393 @@
+Key,Year,Competition,Squad,Age,Poss
+2022-es La Liga-Alavés,2022,es La Liga,Alavés,27.9,41.8
+2022-fr Ligue 1-Angers,2022,fr Ligue 1,Angers,27.4,48.7
+2022-de Bundesliga-Arminia,2022,de Bundesliga,Arminia,25.8,40.5
+2022-eng Premier League-Arsenal,2022,eng Premier League,Arsenal,24.4,53.2
+2022-eng Premier League-Aston Villa,2022,eng Premier League,Aston Villa,26.1,46.5
+2022-it Serie A-Atalanta,2022,it Serie A,Atalanta,27.5,55.1
+2022-es La Liga-Athletic Club,2022,es La Liga,Athletic Club,26.9,48.1
+2022-es La Liga-Atlético Madrid,2022,es La Liga,Atlético Madrid,28.1,50.6
+2022-de Bundesliga-Augsburg,2022,de Bundesliga,Augsburg,26.6,41.2
+2022-es La Liga-Barcelona,2022,es La Liga,Barcelona,26.2,64.8
+2022-de Bundesliga-Bayern Munich,2022,de Bundesliga,Bayern Munich,26.8,64.8
+2022-es La Liga-Betis,2022,es La Liga,Betis,28.9,54.1
+2022-de Bundesliga-Bochum,2022,de Bundesliga,Bochum,28,44.5
+2022-it Serie A-Bologna,2022,it Serie A,Bologna,26.6,50.7
+2022-fr Ligue 1-Bordeaux,2022,fr Ligue 1,Bordeaux,25.7,47.3
+2022-eng Premier League-Brentford,2022,eng Premier League,Brentford,25.4,44.5
+2022-fr Ligue 1-Brest,2022,fr Ligue 1,Brest,25.4,43.8
+2022-eng Premier League-Brighton,2022,eng Premier League,Brighton,26.2,54.7
+2022-eng Premier League-Burnley,2022,eng Premier League,Burnley,28.5,39.8
+2022-es La Liga-Cádiz,2022,es La Liga,Cádiz,28.5,40.9
+2022-it Serie A-Cagliari,2022,it Serie A,Cagliari,26.5,44.4
+2022-es La Liga-Celta Vigo,2022,es La Liga,Celta Vigo,28.4,55.6
+2022-eng Premier League-Chelsea,2022,eng Premier League,Chelsea,27.4,62.3
+2022-fr Ligue 1-Clermont Foot,2022,fr Ligue 1,Clermont Foot,26.9,50
+2022-eng Premier League-Crystal Palace,2022,eng Premier League,Crystal Palace,27.1,50.9
+2022-de Bundesliga-Dortmund,2022,de Bundesliga,Dortmund,25.9,59.6
+2022-de Bundesliga-Eint Frankfurt,2022,de Bundesliga,Eint Frankfurt,26.2,49.6
+2022-es La Liga-Elche,2022,es La Liga,Elche,29.1,48.4
+2022-it Serie A-Empoli,2022,it Serie A,Empoli,24.5,47.1
+2022-es La Liga-Espanyol,2022,es La Liga,Espanyol,27.6,47.1
+2022-eng Premier League-Everton,2022,eng Premier League,Everton,26.7,39.7
+2022-it Serie A-Fiorentina,2022,it Serie A,Fiorentina,26.4,58.2
+2022-de Bundesliga-Freiburg,2022,de Bundesliga,Freiburg,26.5,49.2
+2022-it Serie A-Genoa,2022,it Serie A,Genoa,27,43.9
+2022-es La Liga-Getafe,2022,es La Liga,Getafe,26.6,41.2
+2022-es La Liga-Granada,2022,es La Liga,Granada,28.1,44.6
+2022-de Bundesliga-Greuther Fürth,2022,de Bundesliga,Greuther Fürth,25.9,43.4
+2022-it Serie A-Hellas Verona,2022,it Serie A,Hellas Verona,26.8,50.6
+2022-de Bundesliga-Hertha BSC,2022,de Bundesliga,Hertha BSC,26.7,43.5
+2022-de Bundesliga-Hoffenheim,2022,de Bundesliga,Hoffenheim,26.1,53.6
+2022-it Serie A-Inter,2022,it Serie A,Inter,28.9,56.6
+2022-it Serie A-Juventus,2022,it Serie A,Juventus,27.4,51.7
+2022-de Bundesliga-Köln,2022,de Bundesliga,Köln,27,55.1
+2022-it Serie A-Lazio,2022,it Serie A,Lazio,29,55.6
+2022-eng Premier League-Leeds United,2022,eng Premier League,Leeds United,26.1,52.5
+2022-eng Premier League-Leicester City,2022,eng Premier League,Leicester City,26.5,52.1
+2022-fr Ligue 1-Lens,2022,fr Ligue 1,Lens,26.1,50.8
+2022-es La Liga-Levante,2022,es La Liga,Levante,28,46.9
+2022-de Bundesliga-Leverkusen,2022,de Bundesliga,Leverkusen,24.4,53.9
+2022-fr Ligue 1-Lille,2022,fr Ligue 1,Lille,26.1,50.8
+2022-eng Premier League-Liverpool,2022,eng Premier League,Liverpool,27.7,63.3
+2022-fr Ligue 1-Lorient,2022,fr Ligue 1,Lorient,26.2,44.3
+2022-fr Ligue 1-Lyon,2022,fr Ligue 1,Lyon,25.6,58.8
+2022-de Bundesliga-M'Gladbach,2022,de Bundesliga,M'Gladbach,26,54.4
+2022-de Bundesliga-Mainz 05,2022,de Bundesliga,Mainz 05,26.2,46.3
+2022-es La Liga-Mallorca,2022,es La Liga,Mallorca,27.9,45.1
+2022-eng Premier League-Manchester City,2022,eng Premier League,Manchester City,27,68.5
+2022-eng Premier League-Manchester Utd,2022,eng Premier League,Manchester Utd,27.2,52.9
+2022-fr Ligue 1-Marseille,2022,fr Ligue 1,Marseille,25,62
+2022-fr Ligue 1-Metz,2022,fr Ligue 1,Metz,25.9,42.8
+2022-it Serie A-Milan,2022,it Serie A,Milan,25.6,54.2
+2022-fr Ligue 1-Monaco,2022,fr Ligue 1,Monaco,24.4,54.2
+2022-fr Ligue 1-Montpellier,2022,fr Ligue 1,Montpellier,25.8,48.1
+2022-fr Ligue 1-Nantes,2022,fr Ligue 1,Nantes,26.1,43.7
+2022-it Serie A-Napoli,2022,it Serie A,Napoli,27.9,58.5
+2022-eng Premier League-Newcastle Utd,2022,eng Premier League,Newcastle Utd,27.5,39.9
+2022-fr Ligue 1-Nice,2022,fr Ligue 1,Nice,25,51.6
+2022-eng Premier League-Norwich City,2022,eng Premier League,Norwich City,26.2,42.5
+2022-es La Liga-Osasuna,2022,es La Liga,Osasuna,27.7,46.7
+2022-fr Ligue 1-Paris S-G,2022,fr Ligue 1,Paris S-G,27.8,63.4
+2022-es La Liga-Rayo Vallecano,2022,es La Liga,Rayo Vallecano,27.5,49.9
+2022-de Bundesliga-RB Leipzig,2022,de Bundesliga,RB Leipzig,25.3,56.6
+2022-es La Liga-Real Madrid,2022,es La Liga,Real Madrid,27.7,60.3
+2022-es La Liga-Real Sociedad,2022,es La Liga,Real Sociedad,25.7,54.7
+2022-fr Ligue 1-Reims,2022,fr Ligue 1,Reims,24,42.2
+2022-fr Ligue 1-Rennes,2022,fr Ligue 1,Rennes,25.3,56.3
+2022-it Serie A-Roma,2022,it Serie A,Roma,26.4,51.4
+2022-fr Ligue 1-Saint-Étienne,2022,fr Ligue 1,Saint-Étienne,25.1,49.3
+2022-it Serie A-Salernitana,2022,it Serie A,Salernitana,27.7,41
+2022-it Serie A-Sampdoria,2022,it Serie A,Sampdoria,29,45.9
+2022-it Serie A-Sassuolo,2022,it Serie A,Sassuolo,26.1,55.2
+2022-es La Liga-Sevilla,2022,es La Liga,Sevilla,28.6,59.8
+2022-eng Premier League-Southampton,2022,eng Premier League,Southampton,25.7,47.9
+2022-it Serie A-Spezia,2022,it Serie A,Spezia,24.4,42.7
+2022-fr Ligue 1-Strasbourg,2022,fr Ligue 1,Strasbourg,27,49.5
+2022-de Bundesliga-Stuttgart,2022,de Bundesliga,Stuttgart,24,50.7
+2022-it Serie A-Torino,2022,it Serie A,Torino,25.2,53.6
+2022-eng Premier League-Tottenham,2022,eng Premier League,Tottenham,26.5,52
+2022-fr Ligue 1-Troyes,2022,fr Ligue 1,Troyes,27.1,44.2
+2022-it Serie A-Udinese,2022,it Serie A,Udinese,26.2,42.3
+2022-de Bundesliga-Union Berlin,2022,de Bundesliga,Union Berlin,28.3,43.4
+2022-es La Liga-Valencia,2022,es La Liga,Valencia,24.8,43.6
+2022-it Serie A-Venezia,2022,it Serie A,Venezia,26.1,42.1
+2022-es La Liga-Villarreal,2022,es La Liga,Villarreal,28,57
+2022-eng Premier League-Watford,2022,eng Premier League,Watford,28.4,40.3
+2022-eng Premier League-West Ham,2022,eng Premier League,West Ham,28.2,47.8
+2022-de Bundesliga-Wolfsburg,2022,de Bundesliga,Wolfsburg,26,50.6
+2022-eng Premier League-Wolves,2022,eng Premier League,Wolves,27.3,49.6
+2021-es La Liga-Alavés,2021,es La Liga,Alavés,28.7,42.7
+2021-fr Ligue 1-Angers,2021,fr Ligue 1,Angers,27.9,46.2
+2021-de Bundesliga-Arminia,2021,de Bundesliga,Arminia,26,42.2
+2021-eng Premier League-Arsenal,2021,eng Premier League,Arsenal,25.9,53.8
+2021-eng Premier League-Aston Villa,2021,eng Premier League,Aston Villa,25.2,48.1
+2021-it Serie A-Atalanta,2021,it Serie A,Atalanta,27.3,54.9
+2021-es La Liga-Athletic Club,2021,es La Liga,Athletic Club,26.6,49.8
+2021-es La Liga-Atlético Madrid,2021,es La Liga,Atlético Madrid,27.3,52.4
+2021-de Bundesliga-Augsburg,2021,de Bundesliga,Augsburg,27,41.3
+2021-es La Liga-Barcelona,2021,es La Liga,Barcelona,26.4,65.8
+2021-de Bundesliga-Bayern Munich,2021,de Bundesliga,Bayern Munich,27.3,61.1
+2021-it Serie A-Benevento,2021,it Serie A,Benevento,28.7,42.3
+2021-es La Liga-Betis,2021,es La Liga,Betis,27.9,53.9
+2021-it Serie A-Bologna,2021,it Serie A,Bologna,27.2,50.9
+2021-fr Ligue 1-Bordeaux,2021,fr Ligue 1,Bordeaux,27.6,49.7
+2021-fr Ligue 1-Brest,2021,fr Ligue 1,Brest,24.9,49.3
+2021-eng Premier League-Brighton,2021,eng Premier League,Brighton,25.8,51.3
+2021-eng Premier League-Burnley,2021,eng Premier League,Burnley,28.3,41.7
+2021-es La Liga-Cádiz,2021,es La Liga,Cádiz,28.8,34.3
+2021-it Serie A-Cagliari,2021,it Serie A,Cagliari,26.5,44.6
+2021-es La Liga-Celta Vigo,2021,es La Liga,Celta Vigo,26.6,53.7
+2021-eng Premier League-Chelsea,2021,eng Premier League,Chelsea,26,61.4
+2021-it Serie A-Crotone,2021,it Serie A,Crotone,27.8,46.4
+2021-eng Premier League-Crystal Palace,2021,eng Premier League,Crystal Palace,29.1,40.1
+2021-fr Ligue 1-Dijon,2021,fr Ligue 1,Dijon,25.7,46.2
+2021-de Bundesliga-Dortmund,2021,de Bundesliga,Dortmund,25.6,59.8
+2021-es La Liga-Eibar,2021,es La Liga,Eibar,28.2,49.6
+2021-de Bundesliga-Eint Frankfurt,2021,de Bundesliga,Eint Frankfurt,27.2,54
+2021-es La Liga-Elche,2021,es La Liga,Elche,28.1,47.6
+2021-eng Premier League-Everton,2021,eng Premier League,Everton,26.3,46.5
+2021-it Serie A-Fiorentina,2021,it Serie A,Fiorentina,26.6,46.2
+2021-de Bundesliga-Freiburg,2021,de Bundesliga,Freiburg,26.2,47
+2021-eng Premier League-Fulham,2021,eng Premier League,Fulham,25.2,49.9
+2021-it Serie A-Genoa,2021,it Serie A,Genoa,28.3,44.7
+2021-es La Liga-Getafe,2021,es La Liga,Getafe,26.7,42.8
+2021-es La Liga-Granada,2021,es La Liga,Granada,27.4,41
+2021-it Serie A-Hellas Verona,2021,it Serie A,Hellas Verona,26.2,49.8
+2021-de Bundesliga-Hertha BSC,2021,de Bundesliga,Hertha BSC,25.4,49.4
+2021-de Bundesliga-Hoffenheim,2021,de Bundesliga,Hoffenheim,25.7,51.1
+2021-es La Liga-Huesca,2021,es La Liga,Huesca,28,48.3
+2021-it Serie A-Inter,2021,it Serie A,Inter,27.7,52.4
+2021-it Serie A-Juventus,2021,it Serie A,Juventus,27.7,57.1
+2021-de Bundesliga-Köln,2021,de Bundesliga,Köln,24.9,46.3
+2021-it Serie A-Lazio,2021,it Serie A,Lazio,29.4,53.1
+2021-eng Premier League-Leeds United,2021,eng Premier League,Leeds United,26.1,57.6
+2021-eng Premier League-Leicester City,2021,eng Premier League,Leicester City,26.5,54.6
+2021-fr Ligue 1-Lens,2021,fr Ligue 1,Lens,26.4,51.4
+2021-es La Liga-Levante,2021,es La Liga,Levante,28,52.4
+2021-de Bundesliga-Leverkusen,2021,de Bundesliga,Leverkusen,25.4,59.9
+2021-fr Ligue 1-Lille,2021,fr Ligue 1,Lille,25.4,53.9
+2021-eng Premier League-Liverpool,2021,eng Premier League,Liverpool,26.8,62.4
+2021-fr Ligue 1-Lorient,2021,fr Ligue 1,Lorient,26.8,44.6
+2021-fr Ligue 1-Lyon,2021,fr Ligue 1,Lyon,25.8,54.9
+2021-de Bundesliga-M'Gladbach,2021,de Bundesliga,M'Gladbach,26.9,51.9
+2021-de Bundesliga-Mainz 05,2021,de Bundesliga,Mainz 05,25.8,40.5
+2021-eng Premier League-Manchester City,2021,eng Premier League,Manchester City,26.1,63.9
+2021-eng Premier League-Manchester Utd,2021,eng Premier League,Manchester Utd,25.6,55.8
+2021-fr Ligue 1-Marseille,2021,fr Ligue 1,Marseille,27.2,53.9
+2021-fr Ligue 1-Metz,2021,fr Ligue 1,Metz,25.7,45.3
+2021-it Serie A-Milan,2021,it Serie A,Milan,24.4,51.9
+2021-fr Ligue 1-Monaco,2021,fr Ligue 1,Monaco,24.8,56
+2021-fr Ligue 1-Montpellier,2021,fr Ligue 1,Montpellier,28,45.3
+2021-fr Ligue 1-Nantes,2021,fr Ligue 1,Nantes,25.8,43.7
+2021-it Serie A-Napoli,2021,it Serie A,Napoli,27.1,55.2
+2021-eng Premier League-Newcastle Utd,2021,eng Premier League,Newcastle Utd,27.1,38.2
+2021-fr Ligue 1-Nice,2021,fr Ligue 1,Nice,23.5,54.5
+2021-fr Ligue 1-Nîmes,2021,fr Ligue 1,Nîmes,25.8,44.4
+2021-es La Liga-Osasuna,2021,es La Liga,Osasuna,27.9,43.1
+2021-fr Ligue 1-Paris S-G,2021,fr Ligue 1,Paris S-G,26.7,63.5
+2021-it Serie A-Parma,2021,it Serie A,Parma,28,47.7
+2021-de Bundesliga-RB Leipzig,2021,de Bundesliga,RB Leipzig,25,60
+2021-es La Liga-Real Madrid,2021,es La Liga,Real Madrid,27.9,59.7
+2021-es La Liga-Real Sociedad,2021,es La Liga,Real Sociedad,25,55.1
+2021-fr Ligue 1-Reims,2021,fr Ligue 1,Reims,24.6,44.8
+2021-fr Ligue 1-Rennes,2021,fr Ligue 1,Rennes,25.5,59.5
+2021-it Serie A-Roma,2021,it Serie A,Roma,26.7,52.5
+2021-fr Ligue 1-Saint-Étienne,2021,fr Ligue 1,Saint-Étienne,25.4,48.3
+2021-it Serie A-Sampdoria,2021,it Serie A,Sampdoria,27.9,45.1
+2021-it Serie A-Sassuolo,2021,it Serie A,Sassuolo,26.5,60.8
+2021-de Bundesliga-Schalke 04,2021,de Bundesliga,Schalke 04,25.9,44.6
+2021-es La Liga-Sevilla,2021,es La Liga,Sevilla,28.1,61.2
+2021-eng Premier League-Sheffield Utd,2021,eng Premier League,Sheffield Utd,26.7,41.5
+2021-eng Premier League-Southampton,2021,eng Premier League,Southampton,26.6,52.2
+2021-it Serie A-Spezia,2021,it Serie A,Spezia,25.2,52.2
+2021-fr Ligue 1-Strasbourg,2021,fr Ligue 1,Strasbourg,26.8,45.6
+2021-de Bundesliga-Stuttgart,2021,de Bundesliga,Stuttgart,24.1,51.5
+2021-it Serie A-Torino,2021,it Serie A,Torino,26.9,47.2
+2021-eng Premier League-Tottenham,2021,eng Premier League,Tottenham,27.2,51.7
+2021-it Serie A-Udinese,2021,it Serie A,Udinese,27.2,46.1
+2021-de Bundesliga-Union Berlin,2021,de Bundesliga,Union Berlin,27.3,44.9
+2021-es La Liga-Valencia,2021,es La Liga,Valencia,25.2,46.9
+2021-es La Liga-Valladolid,2021,es La Liga,Valladolid,28.1,45.1
+2021-es La Liga-Villarreal,2021,es La Liga,Villarreal,28,55.6
+2021-de Bundesliga-Werder Bremen,2021,de Bundesliga,Werder Bremen,26.3,43.8
+2021-eng Premier League-West Brom,2021,eng Premier League,West Brom,26.4,37.6
+2021-eng Premier League-West Ham,2021,eng Premier League,West Ham,27.8,42.9
+2021-de Bundesliga-Wolfsburg,2021,de Bundesliga,Wolfsburg,25.6,51.4
+2021-eng Premier League-Wolves,2021,eng Premier League,Wolves,26.3,49.3
+2020-es La Liga-Alavés,2020,es La Liga,Alavés,27.6,41.1
+2020-fr Ligue 1-Amiens,2020,fr Ligue 1,Amiens,27.4,45.5
+2020-fr Ligue 1-Angers,2020,fr Ligue 1,Angers,28,45.1
+2020-eng Premier League-Arsenal,2020,eng Premier League,Arsenal,25.8,54
+2020-eng Premier League-Aston Villa,2020,eng Premier League,Aston Villa,25.7,43.9
+2020-it Serie A-Atalanta,2020,it Serie A,Atalanta,27.2,57.8
+2020-es La Liga-Athletic Club,2020,es La Liga,Athletic Club,26.7,48.7
+2020-es La Liga-Atlético Madrid,2020,es La Liga,Atlético Madrid,26.1,48.5
+2020-de Bundesliga-Augsburg,2020,de Bundesliga,Augsburg,26.2,38.1
+2020-es La Liga-Barcelona,2020,es La Liga,Barcelona,27.8,66.9
+2020-de Bundesliga-Bayern Munich,2020,de Bundesliga,Bayern Munich,26.7,65.6
+2020-es La Liga-Betis,2020,es La Liga,Betis,27.5,57.1
+2020-it Serie A-Bologna,2020,it Serie A,Bologna,27.2,52.9
+2020-fr Ligue 1-Bordeaux,2020,fr Ligue 1,Bordeaux,26.9,53.9
+2020-eng Premier League-Bournemouth,2020,eng Premier League,Bournemouth,25.2,43.8
+2020-it Serie A-Brescia,2020,it Serie A,Brescia,25.6,40.3
+2020-fr Ligue 1-Brest,2020,fr Ligue 1,Brest,26.1,49.7
+2020-eng Premier League-Brighton,2020,eng Premier League,Brighton,26.4,52.2
+2020-eng Premier League-Burnley,2020,eng Premier League,Burnley,28,41.4
+2020-it Serie A-Cagliari,2020,it Serie A,Cagliari,27.4,45.5
+2020-es La Liga-Celta Vigo,2020,es La Liga,Celta Vigo,25.8,51.9
+2020-eng Premier League-Chelsea,2020,eng Premier League,Chelsea,25.5,60.7
+2020-eng Premier League-Crystal Palace,2020,eng Premier League,Crystal Palace,29.4,44.5
+2020-fr Ligue 1-Dijon,2020,fr Ligue 1,Dijon,26.9,46.5
+2020-de Bundesliga-Dortmund,2020,de Bundesliga,Dortmund,25.8,61
+2020-de Bundesliga-Düsseldorf,2020,de Bundesliga,Düsseldorf,27.1,45.4
+2020-es La Liga-Eibar,2020,es La Liga,Eibar,29.3,46.3
+2020-de Bundesliga-Eint Frankfurt,2020,de Bundesliga,Eint Frankfurt,27,51
+2020-es La Liga-Espanyol,2020,es La Liga,Espanyol,27.7,47.3
+2020-eng Premier League-Everton,2020,eng Premier League,Everton,25.5,49.2
+2020-it Serie A-Fiorentina,2020,it Serie A,Fiorentina,25.1,47.3
+2020-de Bundesliga-Freiburg,2020,de Bundesliga,Freiburg,26.4,47.9
+2020-it Serie A-Genoa,2020,it Serie A,Genoa,26.8,49.5
+2020-es La Liga-Getafe,2020,es La Liga,Getafe,27.5,44.6
+2020-es La Liga-Granada,2020,es La Liga,Granada,26.8,43.7
+2020-it Serie A-Hellas Verona,2020,it Serie A,Hellas Verona,26.1,49.8
+2020-de Bundesliga-Hertha BSC,2020,de Bundesliga,Hertha BSC,26.2,44.7
+2020-de Bundesliga-Hoffenheim,2020,de Bundesliga,Hoffenheim,26,51.9
+2020-it Serie A-Inter,2020,it Serie A,Inter,27.7,54.2
+2020-it Serie A-Juventus,2020,it Serie A,Juventus,28.6,58.3
+2020-de Bundesliga-Köln,2020,de Bundesliga,Köln,25.6,46.7
+2020-it Serie A-Lazio,2020,it Serie A,Lazio,27.9,50.5
+2020-it Serie A-Lecce,2020,it Serie A,Lecce,28.7,44.6
+2020-es La Liga-Leganés,2020,es La Liga,Leganés,26.9,43.8
+2020-eng Premier League-Leicester City,2020,eng Premier League,Leicester City,26.1,57.6
+2020-es La Liga-Levante,2020,es La Liga,Levante,27.7,48.4
+2020-de Bundesliga-Leverkusen,2020,de Bundesliga,Leverkusen,26.1,63.8
+2020-fr Ligue 1-Lille,2020,fr Ligue 1,Lille,24.3,53
+2020-eng Premier League-Liverpool,2020,eng Premier League,Liverpool,26.6,63.4
+2020-fr Ligue 1-Lyon,2020,fr Ligue 1,Lyon,24.8,56.4
+2020-de Bundesliga-M'Gladbach,2020,de Bundesliga,M'Gladbach,26.3,52.4
+2020-de Bundesliga-Mainz 05,2020,de Bundesliga,Mainz 05,24.6,43.2
+2020-es La Liga-Mallorca,2020,es La Liga,Mallorca,26.8,44.6
+2020-eng Premier League-Manchester City,2020,eng Premier League,Manchester City,26.9,66.9
+2020-eng Premier League-Manchester Utd,2020,eng Premier League,Manchester Utd,24.8,56.2
+2020-fr Ligue 1-Marseille,2020,fr Ligue 1,Marseille,27.1,54
+2020-fr Ligue 1-Metz,2020,fr Ligue 1,Metz,25.9,45.3
+2020-it Serie A-Milan,2020,it Serie A,Milan,24.6,55.1
+2020-fr Ligue 1-Monaco,2020,fr Ligue 1,Monaco,26,50.8
+2020-fr Ligue 1-Montpellier,2020,fr Ligue 1,Montpellier,28.5,47.6
+2020-fr Ligue 1-Nantes,2020,fr Ligue 1,Nantes,25.4,48.1
+2020-it Serie A-Napoli,2020,it Serie A,Napoli,26.9,59.5
+2020-eng Premier League-Newcastle Utd,2020,eng Premier League,Newcastle Utd,26.5,38.6
+2020-fr Ligue 1-Nice,2020,fr Ligue 1,Nice,23.9,55
+2020-fr Ligue 1-Nîmes,2020,fr Ligue 1,Nîmes,25.4,44.6
+2020-eng Premier League-Norwich City,2020,eng Premier League,Norwich City,26,49.3
+2020-es La Liga-Osasuna,2020,es La Liga,Osasuna,27.7,47.5
+2020-de Bundesliga-Paderborn 07,2020,de Bundesliga,Paderborn 07,25.7,45.7
+2020-fr Ligue 1-Paris S-G,2020,fr Ligue 1,Paris S-G,27.2,65.6
+2020-it Serie A-Parma,2020,it Serie A,Parma,28.8,43.6
+2020-de Bundesliga-RB Leipzig,2020,de Bundesliga,RB Leipzig,24.2,55.5
+2020-es La Liga-Real Madrid,2020,es La Liga,Real Madrid,27.6,59.1
+2020-es La Liga-Real Sociedad,2020,es La Liga,Real Sociedad,24.8,56.6
+2020-fr Ligue 1-Reims,2020,fr Ligue 1,Reims,25.3,48.8
+2020-fr Ligue 1-Rennes,2020,fr Ligue 1,Rennes,25.5,49.8
+2020-it Serie A-Roma,2020,it Serie A,Roma,26.9,52.9
+2020-fr Ligue 1-Saint-Étienne,2020,fr Ligue 1,Saint-Étienne,27,48
+2020-it Serie A-Sampdoria,2020,it Serie A,Sampdoria,26,42.4
+2020-it Serie A-Sassuolo,2020,it Serie A,Sassuolo,26.4,57.8
+2020-de Bundesliga-Schalke 04,2020,de Bundesliga,Schalke 04,24.6,49
+2020-es La Liga-Sevilla,2020,es La Liga,Sevilla,27.7,58.4
+2020-eng Premier League-Sheffield Utd,2020,eng Premier League,Sheffield Utd,26.9,43.1
+2020-eng Premier League-Southampton,2020,eng Premier League,Southampton,25.9,49.3
+2020-it Serie A-SPAL,2020,it Serie A,SPAL,27.5,46.8
+2020-fr Ligue 1-Strasbourg,2020,fr Ligue 1,Strasbourg,25.8,49.7
+2020-it Serie A-Torino,2020,it Serie A,Torino,27.3,47.5
+2020-eng Premier League-Tottenham,2020,eng Premier League,Tottenham,26.7,52.2
+2020-fr Ligue 1-Toulouse,2020,fr Ligue 1,Toulouse,25.1,44
+2020-it Serie A-Udinese,2020,it Serie A,Udinese,26.5,44.7
+2020-de Bundesliga-Union Berlin,2020,de Bundesliga,Union Berlin,27.7,41.8
+2020-es La Liga-Valencia,2020,es La Liga,Valencia,27,48.9
+2020-es La Liga-Valladolid,2020,es La Liga,Valladolid,27.1,44.3
+2020-es La Liga-Villarreal,2020,es La Liga,Villarreal,27.6,53.2
+2020-eng Premier League-Watford,2020,eng Premier League,Watford,28.9,42.5
+2020-de Bundesliga-Werder Bremen,2020,de Bundesliga,Werder Bremen,26.7,48.8
+2020-eng Premier League-West Ham,2020,eng Premier League,West Ham,27.4,44
+2020-de Bundesliga-Wolfsburg,2020,de Bundesliga,Wolfsburg,26,48.3
+2020-eng Premier League-Wolves,2020,eng Premier League,Wolves,26.6,48.3
+2019-es La Liga-Alavés,2019,es La Liga,Alavés,26.7,42.7
+2019-fr Ligue 1-Amiens,2019,fr Ligue 1,Amiens,26.5,46.3
+2019-fr Ligue 1-Angers,2019,fr Ligue 1,Angers,28,43
+2019-eng Premier League-Arsenal,2019,eng Premier League,Arsenal,26.7,58
+2019-it Serie A-Atalanta,2019,it Serie A,Atalanta,26.5,57.8
+2019-es La Liga-Athletic Club,2019,es La Liga,Athletic Club,27.6,50.1
+2019-es La Liga-Atlético Madrid,2019,es La Liga,Atlético Madrid,26.4,49.4
+2019-de Bundesliga-Augsburg,2019,de Bundesliga,Augsburg,26.5,46.6
+2019-es La Liga-Barcelona,2019,es La Liga,Barcelona,27.7,64.2
+2019-de Bundesliga-Bayern Munich,2019,de Bundesliga,Bayern Munich,27.4,65.5
+2019-es La Liga-Betis,2019,es La Liga,Betis,26.7,61.7
+2019-it Serie A-Bologna,2019,it Serie A,Bologna,27,44.7
+2019-fr Ligue 1-Bordeaux,2019,fr Ligue 1,Bordeaux,25.3,50.1
+2019-eng Premier League-Bournemouth,2019,eng Premier League,Bournemouth,26.6,46.8
+2019-eng Premier League-Brighton,2019,eng Premier League,Brighton,27.4,42.6
+2019-eng Premier League-Burnley,2019,eng Premier League,Burnley,28,41.2
+2019-fr Ligue 1-Caen,2019,fr Ligue 1,Caen,25.8,43.9
+2019-it Serie A-Cagliari,2019,it Serie A,Cagliari,27.9,50
+2019-eng Premier League-Cardiff City,2019,eng Premier League,Cardiff City,27.7,35.6
+2019-es La Liga-Celta Vigo,2019,es La Liga,Celta Vigo,25.5,51.7
+2019-eng Premier League-Chelsea,2019,eng Premier League,Chelsea,27.3,62.8
+2019-it Serie A-Chievo,2019,it Serie A,Chievo,28.3,43.1
+2019-eng Premier League-Crystal Palace,2019,eng Premier League,Crystal Palace,27.4,45
+2019-fr Ligue 1-Dijon,2019,fr Ligue 1,Dijon,27.1,47.9
+2019-de Bundesliga-Dortmund,2019,de Bundesliga,Dortmund,24.8,58
+2019-de Bundesliga-Düsseldorf,2019,de Bundesliga,Düsseldorf,26.9,43.1
+2019-es La Liga-Eibar,2019,es La Liga,Eibar,28.5,54.1
+2019-de Bundesliga-Eint Frankfurt,2019,de Bundesliga,Eint Frankfurt,26.4,47.3
+2019-it Serie A-Empoli,2019,it Serie A,Empoli,26.4,47.9
+2019-es La Liga-Espanyol,2019,es La Liga,Espanyol,27.7,49.5
+2019-eng Premier League-Everton,2019,eng Premier League,Everton,25.7,51.5
+2019-it Serie A-Fiorentina,2019,it Serie A,Fiorentina,24.1,50.7
+2019-de Bundesliga-Freiburg,2019,de Bundesliga,Freiburg,25.8,44.2
+2019-it Serie A-Frosinone,2019,it Serie A,Frosinone,26.4,41.1
+2019-eng Premier League-Fulham,2019,eng Premier League,Fulham,26,48.6
+2019-it Serie A-Genoa,2019,it Serie A,Genoa,26,43.1
+2019-es La Liga-Getafe,2019,es La Liga,Getafe,27.5,40.8
+2019-es La Liga-Girona,2019,es La Liga,Girona,26.6,48
+2019-fr Ligue 1-Guingamp,2019,fr Ligue 1,Guingamp,26,43.9
+2019-de Bundesliga-Hannover 96,2019,de Bundesliga,Hannover 96,26.3,46.3
+2019-de Bundesliga-Hertha BSC,2019,de Bundesliga,Hertha BSC,25.9,48.1
+2019-de Bundesliga-Hoffenheim,2019,de Bundesliga,Hoffenheim,25.5,53.6
+2019-eng Premier League-Huddersfield,2019,eng Premier League,Huddersfield,26.2,47
+2019-es La Liga-Huesca,2019,es La Liga,Huesca,26.7,44.7
+2019-it Serie A-Inter,2019,it Serie A,Inter,27.7,59.6
+2019-it Serie A-Juventus,2019,it Serie A,Juventus,28,56.2
+2019-it Serie A-Lazio,2019,it Serie A,Lazio,27.9,50.8
+2019-es La Liga-Leganés,2019,es La Liga,Leganés,26.6,42.8
+2019-eng Premier League-Leicester City,2019,eng Premier League,Leicester City,25.9,51.1
+2019-es La Liga-Levante,2019,es La Liga,Levante,26.3,45.6
+2019-de Bundesliga-Leverkusen,2019,de Bundesliga,Leverkusen,25.3,59.9
+2019-fr Ligue 1-Lille,2019,fr Ligue 1,Lille,24.1,51.5
+2019-eng Premier League-Liverpool,2019,eng Premier League,Liverpool,26.1,61.7
+2019-fr Ligue 1-Lyon,2019,fr Ligue 1,Lyon,24.4,60.8
+2019-de Bundesliga-M'Gladbach,2019,de Bundesliga,M'Gladbach,26.5,53.1
+2019-de Bundesliga-Mainz 05,2019,de Bundesliga,Mainz 05,24.2,46.1
+2019-eng Premier League-Manchester City,2019,eng Premier League,Manchester City,26.7,67.8
+2019-eng Premier League-Manchester Utd,2019,eng Premier League,Manchester Utd,26.3,54.5
+2019-fr Ligue 1-Marseille,2019,fr Ligue 1,Marseille,26.9,55.5
+2019-it Serie A-Milan,2019,it Serie A,Milan,24.8,54.2
+2019-fr Ligue 1-Monaco,2019,fr Ligue 1,Monaco,25.6,49.8
+2019-fr Ligue 1-Montpellier,2019,fr Ligue 1,Montpellier,28,47.8
+2019-fr Ligue 1-Nantes,2019,fr Ligue 1,Nantes,25.9,50.1
+2019-it Serie A-Napoli,2019,it Serie A,Napoli,27,59.4
+2019-eng Premier League-Newcastle Utd,2019,eng Premier League,Newcastle Utd,26.9,40.4
+2019-fr Ligue 1-Nice,2019,fr Ligue 1,Nice,24.2,55.6
+2019-fr Ligue 1-Nîmes,2019,fr Ligue 1,Nîmes,24.1,45.4
+2019-de Bundesliga-Nürnberg,2019,de Bundesliga,Nürnberg,24.9,42.3
+2019-fr Ligue 1-Paris S-G,2019,fr Ligue 1,Paris S-G,26.2,64.1
+2019-it Serie A-Parma,2019,it Serie A,Parma,29.4,37.3
+2019-es La Liga-Rayo Vallecano,2019,es La Liga,Rayo Vallecano,26.6,48.7
+2019-de Bundesliga-RB Leipzig,2019,de Bundesliga,RB Leipzig,24,49.3
+2019-es La Liga-Real Madrid,2019,es La Liga,Real Madrid,27.1,60
+2019-es La Liga-Real Sociedad,2019,es La Liga,Real Sociedad,24.9,51.6
+2019-fr Ligue 1-Reims,2019,fr Ligue 1,Reims,26.2,43.3
+2019-fr Ligue 1-Rennes,2019,fr Ligue 1,Rennes,25.7,50.7
+2019-it Serie A-Roma,2019,it Serie A,Roma,27.5,51.7
+2019-fr Ligue 1-Saint-Étienne,2019,fr Ligue 1,Saint-Étienne,27.8,52.7
+2019-it Serie A-Sampdoria,2019,it Serie A,Sampdoria,26.1,55.3
+2019-it Serie A-Sassuolo,2019,it Serie A,Sassuolo,25.4,54
+2019-de Bundesliga-Schalke 04,2019,de Bundesliga,Schalke 04,25.8,45.4
+2019-es La Liga-Sevilla,2019,es La Liga,Sevilla,27.9,52.2
+2019-eng Premier League-Southampton,2019,eng Premier League,Southampton,25.4,43.9
+2019-it Serie A-SPAL,2019,it Serie A,SPAL,27.8,50.6
+2019-fr Ligue 1-Strasbourg,2019,fr Ligue 1,Strasbourg,26.2,50.2
+2019-de Bundesliga-Stuttgart,2019,de Bundesliga,Stuttgart,26.3,45.9
+2019-it Serie A-Torino,2019,it Serie A,Torino,27.6,51.4
+2019-eng Premier League-Tottenham,2019,eng Premier League,Tottenham,26.8,58.9
+2019-fr Ligue 1-Toulouse,2019,fr Ligue 1,Toulouse,25.5,48.3
+2019-it Serie A-Udinese,2019,it Serie A,Udinese,25.3,42.4
+2019-es La Liga-Valencia,2019,es La Liga,Valencia,26.4,47.1
+2019-es La Liga-Valladolid,2019,es La Liga,Valladolid,27.4,47
+2019-es La Liga-Villarreal,2019,es La Liga,Villarreal,27.1,48.3
+2019-eng Premier League-Watford,2019,eng Premier League,Watford,28.5,47.1
+2019-de Bundesliga-Werder Bremen,2019,de Bundesliga,Werder Bremen,27.1,52.2
+2019-eng Premier League-West Ham,2019,eng Premier League,West Ham,27.6,48.7
+2019-de Bundesliga-Wolfsburg,2019,de Bundesliga,Wolfsburg,25.4,53.3
+2019-eng Premier League-Wolves,2019,eng Premier League,Wolves,26.1,46.9

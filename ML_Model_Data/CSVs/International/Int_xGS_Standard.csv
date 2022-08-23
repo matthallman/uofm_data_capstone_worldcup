@@ -1,0 +1,387 @@
+Key,Year,Competition,Squad,Age,Poss
+2019-AFC Asian Cup-au Australia,2019,AFC Asian Cup,au Australia,27,66
+2019-AFC Asian Cup-bh Bahrain,2019,AFC Asian Cup,bh Bahrain,27.2,46.3
+2019-AFC Asian Cup-cn China PR,2019,AFC Asian Cup,cn China PR,29.8,50.6
+2019-AFC Asian Cup-in India,2019,AFC Asian Cup,in India,25.9,36.7
+2019-AFC Asian Cup-ir IR Iran,2019,AFC Asian Cup,ir IR Iran,27.5,57
+2019-AFC Asian Cup-iq Iraq,2019,AFC Asian Cup,iq Iraq,23.7,55
+2019-AFC Asian Cup-jp Japan,2019,AFC Asian Cup,jp Japan,27,54.7
+2019-AFC Asian Cup-jo Jordan,2019,AFC Asian Cup,jo Jordan,28.9,41.3
+2019-AFC Asian Cup-kp Korea DPR,2019,AFC Asian Cup,kp Korea DPR,26.5,32.7
+2019-AFC Asian Cup-kr Korea Republic,2019,AFC Asian Cup,kr Korea Republic,27.1,69
+2019-AFC Asian Cup-kg Kyrgyz Republic,2019,AFC Asian Cup,kg Kyrgyz Republic,26.7,41.3
+2019-AFC Asian Cup-lb Lebanon,2019,AFC Asian Cup,lb Lebanon,28.7,42
+2019-AFC Asian Cup-om Oman,2019,AFC Asian Cup,om Oman,27.7,51.5
+2019-AFC Asian Cup-ps Palestine,2019,AFC Asian Cup,ps Palestine,27,33.7
+2019-AFC Asian Cup-ph Philippines,2019,AFC Asian Cup,ph Philippines,28.6,39
+2019-AFC Asian Cup-qa Qatar,2019,AFC Asian Cup,qa Qatar,25.3,49.1
+2019-AFC Asian Cup-sa Saudi Arabia,2019,AFC Asian Cup,sa Saudi Arabia,26.8,72.5
+2019-AFC Asian Cup-sy Syria,2019,AFC Asian Cup,sy Syria,28.2,57.3
+2019-AFC Asian Cup-th Thailand,2019,AFC Asian Cup,th Thailand,27.8,46
+2019-AFC Asian Cup-tm Turkmenistan,2019,AFC Asian Cup,tm Turkmenistan,27.7,35.3
+2019-AFC Asian Cup-ae UAE,2019,AFC Asian Cup,ae UAE,28.8,56.5
+2019-AFC Asian Cup-uz Uzbekistan,2019,AFC Asian Cup,uz Uzbekistan,27.8,48.3
+2019-AFC Asian Cup-vn Vietnam,2019,AFC Asian Cup,vn Vietnam,24.1,45.2
+2019-AFC Asian Cup-ye Yemen,2019,AFC Asian Cup,ye Yemen,26.5,35.3
+2021-UEFA Euros-at Austria,2021,UEFA Euros,at Austria,27.1,53.8
+2021-UEFA Euros-be Belgium,2021,UEFA Euros,be Belgium,29.2,53.6
+2021-UEFA Euros-hr Croatia,2021,UEFA Euros,hr Croatia,27.7,49.5
+2021-UEFA Euros-cz Czech Republic,2021,UEFA Euros,cz Czech Republic,28,48
+2021-UEFA Euros-dk Denmark,2021,UEFA Euros,dk Denmark,27.7,53.3
+2021-UEFA Euros-eng England,2021,UEFA Euros,eng England,25.9,50.9
+2021-UEFA Euros-fi Finland,2021,UEFA Euros,fi Finland,29.4,37.7
+2021-UEFA Euros-fr France,2021,UEFA Euros,fr France,27.8,52.8
+2021-UEFA Euros-de Germany,2021,UEFA Euros,de Germany,28.3,62.3
+2021-UEFA Euros-hu Hungary,2021,UEFA Euros,hu Hungary,27.5,29.7
+2021-UEFA Euros-it Italy,2021,UEFA Euros,it Italy,27.9,54.6
+2021-UEFA Euros-mk N. Macedonia,2021,UEFA Euros,mk N. Macedonia,27.7,42
+2021-UEFA Euros-nl Netherlands,2021,UEFA Euros,nl Netherlands,27.8,55
+2021-UEFA Euros-pl Poland,2021,UEFA Euros,pl Poland,27.7,49.3
+2021-UEFA Euros-pt Portugal,2021,UEFA Euros,pt Portugal,28.8,54.3
+2021-UEFA Euros-ru Russia,2021,UEFA Euros,ru Russia,27.1,42.7
+2021-UEFA Euros-sct Scotland,2021,UEFA Euros,sct Scotland,27.2,44
+2021-UEFA Euros-sk Slovakia,2021,UEFA Euros,sk Slovakia,29.7,45
+2021-UEFA Euros-es Spain,2021,UEFA Euros,es Spain,26,72.7
+2021-UEFA Euros-se Sweden,2021,UEFA Euros,se Sweden,29.3,34
+2021-UEFA Euros-ch Switzerland,2021,UEFA Euros,ch Switzerland,27.7,47.8
+2021-UEFA Euros-tr Turkey,2021,UEFA Euros,tr Turkey,25.9,50
+2021-UEFA Euros-ua Ukraine,2021,UEFA Euros,ua Ukraine,25.9,49
+2021-UEFA Euros-wls Wales,2021,UEFA Euros,wls Wales,26.6,37.8
+2016-UEFA Euros-al Albania,2016,UEFA Euros,al Albania,27.2,40.3
+2016-UEFA Euros-at Austria,2016,UEFA Euros,at Austria,27.2,54
+2016-UEFA Euros-be Belgium,2016,UEFA Euros,be Belgium,25.9,52.4
+2016-UEFA Euros-hr Croatia,2016,UEFA Euros,hr Croatia,28.1,48.8
+2016-UEFA Euros-cz Czech Republic,2016,UEFA Euros,cz Czech Republic,29.5,42.3
+2016-UEFA Euros-eng England,2016,UEFA Euros,eng England,25.8,62
+2016-UEFA Euros-fr France,2016,UEFA Euros,fr France,28.3,54.4
+2016-UEFA Euros-de Germany,2016,UEFA Euros,de Germany,26.6,66.8
+2016-UEFA Euros-hu Hungary,2016,UEFA Euros,hu Hungary,28.6,52.5
+2016-UEFA Euros-is Iceland,2016,UEFA Euros,is Iceland,28.2,31.8
+2016-UEFA Euros-it Italy,2016,UEFA Euros,it Italy,29.8,44.8
+2016-UEFA Euros-nir Northern Ireland,2016,UEFA Euros,nir Northern Ireland,28.9,32.8
+2016-UEFA Euros-pl Poland,2016,UEFA Euros,pl Poland,27.6,46.4
+2016-UEFA Euros-pt Portugal,2016,UEFA Euros,pt Portugal,27.7,53
+2016-UEFA Euros-ie Rep. of Ireland,2016,UEFA Euros,ie Rep. of Ireland,28.2,41.8
+2016-UEFA Euros-ro Romania,2016,UEFA Euros,ro Romania,28.9,44.3
+2016-UEFA Euros-ru Russia,2016,UEFA Euros,ru Russia,28.4,54
+2016-UEFA Euros-sk Slovakia,2016,UEFA Euros,sk Slovakia,28.8,43.5
+2016-UEFA Euros-es Spain,2016,UEFA Euros,es Spain,28.6,65
+2016-UEFA Euros-se Sweden,2016,UEFA Euros,se Sweden,28.8,53
+2016-UEFA Euros-ch Switzerland,2016,UEFA Euros,ch Switzerland,26.3,59.5
+2016-UEFA Euros-tr Turkey,2016,UEFA Euros,tr Turkey,27.8,45.3
+2016-UEFA Euros-ua Ukraine,2016,UEFA Euros,ua Ukraine,27.9,55.7
+2016-UEFA Euros-wls Wales,2016,UEFA Euros,wls Wales,26.9,46.8
+2018-World Cup-ar Argentina,2018,World Cup,ar Argentina,29.6,65.3
+2018-World Cup-au Australia,2018,World Cup,au Australia,27.7,51.7
+2018-World Cup-be Belgium,2018,World Cup,be Belgium,27.7,52.9
+2018-World Cup-br Brazil,2018,World Cup,br Brazil,28.2,58.6
+2018-World Cup-co Colombia,2018,World Cup,co Colombia,26.8,50.5
+2018-World Cup-cr Costa Rica,2018,World Cup,cr Costa Rica,29.9,39.3
+2018-World Cup-hr Croatia,2018,World Cup,hr Croatia,28.8,56.6
+2018-World Cup-dk Denmark,2018,World Cup,dk Denmark,26.9,43.8
+2018-World Cup-eg Egypt,2018,World Cup,eg Egypt,28.9,43.3
+2018-World Cup-eng England,2018,World Cup,eng England,25.5,54.4
+2018-World Cup-fr France,2018,World Cup,fr France,25.5,48.6
+2018-World Cup-de Germany,2018,World Cup,de Germany,27.2,72
+2018-World Cup-is Iceland,2018,World Cup,is Iceland,30,33
+2018-World Cup-ir IR Iran,2018,World Cup,ir IR Iran,26.2,29
+2018-World Cup-jp Japan,2018,World Cup,jp Japan,29.2,53
+2018-World Cup-kr Korea Republic,2018,World Cup,kr Korea Republic,27.1,37.3
+2018-World Cup-mx Mexico,2018,World Cup,mx Mexico,27.8,52.5
+2018-World Cup-ma Morocco,2018,World Cup,ma Morocco,28.6,49
+2018-World Cup-ng Nigeria,2018,World Cup,ng Nigeria,24.8,47.3
+2018-World Cup-pa Panama,2018,World Cup,pa Panama,28.3,36
+2018-World Cup-pe Peru,2018,World Cup,pe Peru,27.5,50.3
+2018-World Cup-pl Poland,2018,World Cup,pl Poland,27.6,50.3
+2018-World Cup-pt Portugal,2018,World Cup,pt Portugal,28.3,53.8
+2018-World Cup-ru Russia,2018,World Cup,ru Russia,28.8,37.6
+2018-World Cup-sa Saudi Arabia,2018,World Cup,sa Saudi Arabia,28.1,59
+2018-World Cup-sn Senegal,2018,World Cup,sn Senegal,26,42
+2018-World Cup-rs Serbia,2018,World Cup,rs Serbia,27.9,42.7
+2018-World Cup-es Spain,2018,World Cup,es Spain,28.9,74
+2018-World Cup-se Sweden,2018,World Cup,se Sweden,28.5,37.6
+2018-World Cup-ch Switzerland,2018,World Cup,ch Switzerland,27.4,58.8
+2018-World Cup-tn Tunisia,2018,World Cup,tn Tunisia,26.2,52.7
+2018-World Cup-uy Uruguay,2018,World Cup,uy Uruguay,27.6,46.6
+2021-Copa America-ar Argentina,2021,Copa America,ar Argentina,27.7,49
+2021-Copa America-bo Bolivia,2021,Copa America,bo Bolivia,26.3,35.3
+2021-Copa America-br Brazil,2021,Copa America,br Brazil,27.3,57.7
+2021-Copa America-cl Chile,2021,Copa America,cl Chile,30.2,57.2
+2021-Copa America-co Colombia,2021,Copa America,co Colombia,28.4,49
+2021-Copa America-ec Ecuador,2021,Copa America,ec Ecuador,25.5,55.4
+2021-Copa America-py Paraguay,2021,Copa America,py Paraguay,27.6,52.6
+2021-Copa America-pe Peru,2021,Copa America,pe Peru,28.7,48.6
+2021-Copa America-uy Uruguay,2021,Copa America,uy Uruguay,28.3,52
+2021-Copa America-ve Venezuela,2021,Copa America,ve Venezuela,26,36.8
+2019-Copa America-ar Argentina,2019,Copa America,ar Argentina,27.3,48.7
+2019-Copa America-bo Bolivia,2019,Copa America,bo Bolivia,27.2,40.7
+2019-Copa America-br Brazil,2019,Copa America,br Brazil,27.5,64.3
+2019-Copa America-cl Chile,2019,Copa America,cl Chile,29.8,57.5
+2019-Copa America-co Colombia,2019,Copa America,co Colombia,27,51
+2019-Copa America-ec Ecuador,2019,Copa America,ec Ecuador,27.6,47.3
+2019-Copa America-jp Japan,2019,Copa America,jp Japan,23.4,46
+2019-Copa America-py Paraguay,2019,Copa America,py Paraguay,26.9,42.8
+2019-Copa America-pe Peru,2019,Copa America,pe Peru,27.7,45.2
+2019-Copa America-qa Qatar,2019,Copa America,qa Qatar,25.3,45.3
+2019-Copa America-uy Uruguay,2019,Copa America,uy Uruguay,27.8,53
+2019-Copa America-ve Venezuela,2019,Copa America,ve Venezuela,25.5,46.3
+2016-Copa America-ar Argentina,2016,Copa America,ar Argentina,28,62.8
+2016-Copa America-bo Bolivia,2016,Copa America,bo Bolivia,28.1,28
+2016-Copa America-br Brazil,2016,Copa America,br Brazil,27.1,67
+2016-Copa America-cl Chile,2016,Copa America,cl Chile,29.1,63
+2016-Copa America-co Colombia,2016,Copa America,co Colombia,26,49
+2016-Copa America-cr Costa Rica,2016,Copa America,cr Costa Rica,28.2,52.3
+2016-Copa America-ec Ecuador,2016,Copa America,ec Ecuador,28.2,48
+2016-Copa America-ht Haiti,2016,Copa America,ht Haiti,27.3,45.3
+2016-Copa America-jm Jamaica,2016,Copa America,jm Jamaica,29.6,42
+2016-Copa America-mx Mexico,2016,Copa America,mx Mexico,27.4,58.5
+2016-Copa America-pa Panama,2016,Copa America,pa Panama,29.7,34.3
+2016-Copa America-pe Peru,2016,Copa America,pe Peru,26.3,44.3
+2016-Copa America-py Paraguay,2016,Copa America,py Paraguay,27,57.3
+2016-Copa America-us United States,2016,Copa America,us United States,28.2,42
+2016-Copa America-uy Uruguay,2016,Copa America,uy Uruguay,28.4,49.7
+2016-Copa America-ve Venezuela,2016,Copa America,ve Venezuela,26.5,43
+2021-Gold Cup-ca Canada,2021,Gold Cup,ca Canada,26.2,53
+2021-Gold Cup-cr Costa Rica,2021,Gold Cup,cr Costa Rica,29,52.8
+2021-Gold Cup-sv El Salvador,2021,Gold Cup,sv El Salvador,26.6,59.8
+2021-Gold Cup-gd Grenada,2021,Gold Cup,gd Grenada,25.9,37
+2021-Gold Cup-gp Guadeloupe,2021,Gold Cup,gp Guadeloupe,26.4,40.7
+2021-Gold Cup-gt Guatemala,2021,Gold Cup,gt Guatemala,26.4,37.7
+2021-Gold Cup-ht Haiti,2021,Gold Cup,ht Haiti,25.7,45.3
+2021-Gold Cup-hn Honduras,2021,Gold Cup,hn Honduras,28.8,49.3
+2021-Gold Cup-jm Jamaica,2021,Gold Cup,jm Jamaica,27.5,47.8
+2021-Gold Cup-mq Martinique,2021,Gold Cup,mq Martinique,30.8,38
+2021-Gold Cup-mx Mexico,2021,Gold Cup,mx Mexico,28.9,66.2
+2021-Gold Cup-pa Panama,2021,Gold Cup,pa Panama,28.8,59
+2021-Gold Cup-qa Qatar,2021,Gold Cup,qa Qatar,26.6,45.4
+2021-Gold Cup-sr Suriname,2021,Gold Cup,sr Suriname,28.7,54.7
+2021-Gold Cup-tt Trin & Tobago,2021,Gold Cup,tt Trin & Tobago,27.7,35.7
+2021-Gold Cup-us United States,2021,Gold Cup,us United States,23.8,56
+2019-Gold Cup-bm Bermuda,2019,Gold Cup,bm Bermuda,25,40.7
+2019-Gold Cup-ca Canada,2019,Gold Cup,ca Canada,25.5,55
+2019-Gold Cup-cr Costa Rica,2019,Gold Cup,cr Costa Rica,28.1,59.3
+2019-Gold Cup-cu Cuba,2019,Gold Cup,cu Cuba,24.3,41
+2019-Gold Cup-cw Curaçao,2019,Gold Cup,cw Curaçao,26.6,49.3
+2019-Gold Cup-sv El Salvador,2019,Gold Cup,sv El Salvador,27.5,46.7
+2019-Gold Cup-gy Guyana,2019,Gold Cup,gy Guyana,26,41.7
+2019-Gold Cup-ht Haiti,2019,Gold Cup,ht Haiti,25.4,36.2
+2019-Gold Cup-hn Honduras,2019,Gold Cup,hn Honduras,27.2,58.3
+2019-Gold Cup-jm Jamaica,2019,Gold Cup,jm Jamaica,26.5,46
+2019-Gold Cup-mq Martinique,2019,Gold Cup,mq Martinique,29.6,38.3
+2019-Gold Cup-mx Mexico,2019,Gold Cup,mx Mexico,26.5,65.3
+2019-Gold Cup-ni Nicaragua,2019,Gold Cup,ni Nicaragua,27.9,56.3
+2019-Gold Cup-pa Panama,2019,Gold Cup,pa Panama,27.5,50.5
+2019-Gold Cup-tt Trin & Tobago,2019,Gold Cup,tt Trin & Tobago,27.7,48.7
+2019-Gold Cup-us United States,2019,Gold Cup,us United States,25.2,55
+2017-Gold Cup-ca Canada,2017,Gold Cup,ca Canada,25.9,49.3
+2017-Gold Cup-cr Costa Rica,2017,Gold Cup,cr Costa Rica,28.4,50
+2017-Gold Cup-cw Curaçao,2017,Gold Cup,cw Curaçao,26.3,46.7
+2017-Gold Cup-sv El Salvador,2017,Gold Cup,sv El Salvador,25.7,45.5
+2017-Gold Cup-French Guiana,2017,Gold Cup,French Guiana,28.5,50.5
+2017-Gold Cup-hn Honduras,2017,Gold Cup,hn Honduras,26.6,52.3
+2017-Gold Cup-jm Jamaica,2017,Gold Cup,jm Jamaica,26.2,34.8
+2017-Gold Cup-mq Martinique,2017,Gold Cup,mq Martinique,27.5,44.7
+2017-Gold Cup-mx Mexico,2017,Gold Cup,mx Mexico,26.1,65.4
+2017-Gold Cup-ni Nicaragua,2017,Gold Cup,ni Nicaragua,25.7,47.7
+2017-Gold Cup-pa Panama,2017,Gold Cup,pa Panama,25.8,51.5
+2017-Gold Cup-us United States,2017,Gold Cup,us United States,27.6,59.5
+2021-Africa Cup of Nations-dz Algeria,2021,Africa Cup of Nations,dz Algeria,28.7,64
+2021-Africa Cup of Nations-bf Burkina Faso,2021,Africa Cup of Nations,bf Burkina Faso,24.8,42.7
+2021-Africa Cup of Nations-cm Cameroon,2021,Africa Cup of Nations,cm Cameroon,26.2,59.7
+2021-Africa Cup of Nations-cv Cape Verde,2021,Africa Cup of Nations,cv Cape Verde,28.6,46.3
+2021-Africa Cup of Nations-km Comoros,2021,Africa Cup of Nations,km Comoros,28.1,44
+2021-Africa Cup of Nations-ci Côte d'Ivoire,2021,Africa Cup of Nations,ci Côte d'Ivoire,27.7,54
+2021-Africa Cup of Nations-eg Egypt,2021,Africa Cup of Nations,eg Egypt,26.8,52.9
+2021-Africa Cup of Nations-gq Equ. Guinea,2021,Africa Cup of Nations,gq Equ. Guinea,23.9,45.4
+2021-Africa Cup of Nations-et Ethiopia,2021,Africa Cup of Nations,et Ethiopia,23.8,49.7
+2021-Africa Cup of Nations-ga Gabon,2021,Africa Cup of Nations,ga Gabon,26.5,44
+2021-Africa Cup of Nations-gm Gambia,2021,Africa Cup of Nations,gm Gambia,25.1,38.2
+2021-Africa Cup of Nations-gh Ghana,2021,Africa Cup of Nations,gh Ghana,26,51
+2021-Africa Cup of Nations-gn Guinea,2021,Africa Cup of Nations,gn Guinea,25.3,57.8
+2021-Africa Cup of Nations-gw Guinea-Bissau,2021,Africa Cup of Nations,gw Guinea-Bissau,25.6,48.3
+2021-Africa Cup of Nations-mw Malawi,2021,Africa Cup of Nations,mw Malawi,24.9,29.5
+2021-Africa Cup of Nations-ml Mali,2021,Africa Cup of Nations,ml Mali,25.5,59
+2021-Africa Cup of Nations-mr Mauritania,2021,Africa Cup of Nations,mr Mauritania,25.7,47
+2021-Africa Cup of Nations-ma Morocco,2021,Africa Cup of Nations,ma Morocco,25.6,60.6
+2021-Africa Cup of Nations-ng Nigeria,2021,Africa Cup of Nations,ng Nigeria,24.5,51.8
+2021-Africa Cup of Nations-sn Senegal,2021,Africa Cup of Nations,sn Senegal,27.7,57.9
+2021-Africa Cup of Nations-sl Sierra Leone,2021,Africa Cup of Nations,sl Sierra Leone,27.1,40
+2021-Africa Cup of Nations-sd Sudan,2021,Africa Cup of Nations,sd Sudan,25.6,40.3
+2021-Africa Cup of Nations-tn Tunisia,2021,Africa Cup of Nations,tn Tunisia,26.6,57.4
+2021-Africa Cup of Nations-zw Zimbabwe,2021,Africa Cup of Nations,zw Zimbabwe,28.7,46.3
+2019-Africa Cup of Nations-dz Algeria,2019,Africa Cup of Nations,dz Algeria,27.4,49.3
+2019-Africa Cup of Nations-ao Angola,2019,Africa Cup of Nations,ao Angola,28.1,51.7
+2019-Africa Cup of Nations-bj Benin,2019,Africa Cup of Nations,bj Benin,28,41.6
+2019-Africa Cup of Nations-bi Burundi,2019,Africa Cup of Nations,bi Burundi,25,41.3
+2019-Africa Cup of Nations-cm Cameroon,2019,Africa Cup of Nations,cm Cameroon,26.5,62.8
+2019-Africa Cup of Nations-cd Congo DR,2019,Africa Cup of Nations,cd Congo DR,27.6,49
+2019-Africa Cup of Nations-ci Côte d'Ivoire,2019,Africa Cup of Nations,ci Côte d'Ivoire,28,43.4
+2019-Africa Cup of Nations-eg Egypt,2019,Africa Cup of Nations,eg Egypt,28.4,56.3
+2019-Africa Cup of Nations-gh Ghana,2019,Africa Cup of Nations,gh Ghana,26.5,49.5
+2019-Africa Cup of Nations-gn Guinea,2019,Africa Cup of Nations,gn Guinea,26.3,58.5
+2019-Africa Cup of Nations-gw Guinea-Bissau,2019,Africa Cup of Nations,gw Guinea-Bissau,26.1,41.3
+2019-Africa Cup of Nations-ke Kenya,2019,Africa Cup of Nations,ke Kenya,26.6,44
+2019-Africa Cup of Nations-mg Madagascar,2019,Africa Cup of Nations,mg Madagascar,29.2,44.4
+2019-Africa Cup of Nations-ml Mali,2019,Africa Cup of Nations,ml Mali,24.3,53.5
+2019-Africa Cup of Nations-mr Mauritania,2019,Africa Cup of Nations,mr Mauritania,24.7,42.7
+2019-Africa Cup of Nations-ma Morocco,2019,Africa Cup of Nations,ma Morocco,28.3,61.3
+2019-Africa Cup of Nations-na Namibia,2019,Africa Cup of Nations,na Namibia,26.8,43.7
+2019-Africa Cup of Nations-ng Nigeria,2019,Africa Cup of Nations,ng Nigeria,24.9,49.3
+2019-Africa Cup of Nations-sn Senegal,2019,Africa Cup of Nations,sn Senegal,26.5,59.3
+2019-Africa Cup of Nations-za South Africa,2019,Africa Cup of Nations,za South Africa,27.8,51.4
+2019-Africa Cup of Nations-tz Tanzania,2019,Africa Cup of Nations,tz Tanzania,25.8,42.3
+2019-Africa Cup of Nations-tn Tunisia,2019,Africa Cup of Nations,tn Tunisia,25.8,53.9
+2019-Africa Cup of Nations-ug Uganda,2019,Africa Cup of Nations,ug Uganda,26.3,46
+2019-Africa Cup of Nations-zw Zimbabwe,2019,Africa Cup of Nations,zw Zimbabwe,27,52.3
+2017-Africa Cup of Nations-dz Algeria,2017,Africa Cup of Nations,dz Algeria,27.1,55
+2017-Africa Cup of Nations-bf Burkina Faso,2017,Africa Cup of Nations,bf Burkina Faso,25.8,49.7
+2017-Africa Cup of Nations-cm Cameroon,2017,Africa Cup of Nations,cm Cameroon,25.5,50.3
+2017-Africa Cup of Nations-cd Congo DR,2017,Africa Cup of Nations,cd Congo DR,25.9,44.3
+2017-Africa Cup of Nations-ci Côte d'Ivoire,2017,Africa Cup of Nations,ci Côte d'Ivoire,26,62.7
+2017-Africa Cup of Nations-eg Egypt,2017,Africa Cup of Nations,eg Egypt,28.6,47.5
+2017-Africa Cup of Nations-ga Gabon,2017,Africa Cup of Nations,ga Gabon,26.2,54.3
+2017-Africa Cup of Nations-gh Ghana,2017,Africa Cup of Nations,gh Ghana,26.1,50.5
+2017-Africa Cup of Nations-gw Guinea-Bissau,2017,Africa Cup of Nations,gw Guinea-Bissau,25,45.7
+2017-Africa Cup of Nations-ml Mali,2017,Africa Cup of Nations,ml Mali,26.3,53
+2017-Africa Cup of Nations-ma Morocco,2017,Africa Cup of Nations,ma Morocco,28.1,49
+2017-Africa Cup of Nations-sn Senegal,2017,Africa Cup of Nations,sn Senegal,26.7,51.3
+2017-Africa Cup of Nations-tg Togo,2017,Africa Cup of Nations,tg Togo,28.8,45.7
+2017-Africa Cup of Nations-tn Tunisia,2017,Africa Cup of Nations,tn Tunisia,26.5,52.8
+2017-Africa Cup of Nations-ug Uganda,2017,Africa Cup of Nations,ug Uganda,25.4,47.7
+2017-Africa Cup of Nations-zw Zimbabwe,2017,Africa Cup of Nations,zw Zimbabwe,27.7,44
+2015-Africa Cup of Nations-dz Algeria,2015,Africa Cup of Nations,dz Algeria,25.8,51
+2015-Africa Cup of Nations-bf Burkina Faso,2015,Africa Cup of Nations,bf Burkina Faso,26,55.7
+2015-Africa Cup of Nations-cm Cameroon,2015,Africa Cup of Nations,cm Cameroon,25.3,54.7
+2015-Africa Cup of Nations-cv Cape Verde,2015,Africa Cup of Nations,cv Cape Verde,27.1,49.7
+2015-Africa Cup of Nations-cg Congo,2015,Africa Cup of Nations,cg Congo,25.1,47.3
+2015-Africa Cup of Nations-cd Congo DR,2015,Africa Cup of Nations,cd Congo DR,27.7,53
+2015-Africa Cup of Nations-ci Côte d'Ivoire,2015,Africa Cup of Nations,ci Côte d'Ivoire,27.4,49
+2015-Africa Cup of Nations-gq Equ. Guinea,2015,Africa Cup of Nations,gq Equ. Guinea,26.4,44.3
+2015-Africa Cup of Nations-ga Gabon,2015,Africa Cup of Nations,ga Gabon,24.4,59.7
+2015-Africa Cup of Nations-gh Ghana,2015,Africa Cup of Nations,gh Ghana,24.9,49.8
+2015-Africa Cup of Nations-gn Guinea,2015,Africa Cup of Nations,gn Guinea,24.6,51.8
+2015-Africa Cup of Nations-ml Mali,2015,Africa Cup of Nations,ml Mali,27.5,41.7
+2015-Africa Cup of Nations-sn Senegal,2015,Africa Cup of Nations,sn Senegal,26.9,58.3
+2015-Africa Cup of Nations-za South Africa,2015,Africa Cup of Nations,za South Africa,25.9,44.7
+2015-Africa Cup of Nations-tn Tunisia,2015,Africa Cup of Nations,tn Tunisia,26.3,50.5
+2015-Africa Cup of Nations-zm Zambia,2015,Africa Cup of Nations,zm Zambia,26,43.3
+2022-UEFA WCQ-al Albania,2022,UEFA WCQ,al Albania,27.5,53.8
+2022-UEFA WCQ-ad Andorra,2022,UEFA WCQ,ad Andorra,28.6,26.6
+2022-UEFA WCQ-am Armenia,2022,UEFA WCQ,am Armenia,29.4,44.7
+2022-UEFA WCQ-at Austria,2022,UEFA WCQ,at Austria,28.2,62.5
+2022-UEFA WCQ-az Azerbaijan,2022,UEFA WCQ,az Azerbaijan,27.6,41.9
+2022-UEFA WCQ-by Belarus,2022,UEFA WCQ,by Belarus,28,38
+2022-UEFA WCQ-be Belgium,2022,UEFA WCQ,be Belgium,29.1,70.5
+2022-UEFA WCQ-ba Bosnia & Herz'na,2022,UEFA WCQ,ba Bosnia & Herz'na,28,52
+2022-UEFA WCQ-bg Bulgaria,2022,UEFA WCQ,bg Bulgaria,27.7,38.8
+2022-UEFA WCQ-hr Croatia,2022,UEFA WCQ,hr Croatia,28.3,66.3
+2022-UEFA WCQ-cy Cyprus,2022,UEFA WCQ,cy Cyprus,27,35.7
+2022-UEFA WCQ-cz Czech Republic,2022,UEFA WCQ,cz Czech Republic,27.9,55.4
+2022-UEFA WCQ-dk Denmark,2022,UEFA WCQ,dk Denmark,28,62.1
+2022-UEFA WCQ-eng England,2022,UEFA WCQ,eng England,26.4,73.3
+2022-UEFA WCQ-ee Estonia,2022,UEFA WCQ,ee Estonia,26.9,35
+2022-UEFA WCQ-fo Faroe Islands,2022,UEFA WCQ,fo Faroe Islands,29.2,37.6
+2022-UEFA WCQ-fi Finland,2022,UEFA WCQ,fi Finland,28.8,46.6
+2022-UEFA WCQ-fr France,2022,UEFA WCQ,fr France,27.9,60.1
+2022-UEFA WCQ-ge Georgia,2022,UEFA WCQ,ge Georgia,28.1,40.8
+2022-UEFA WCQ-de Germany,2022,UEFA WCQ,de Germany,27.5,75.8
+2022-UEFA WCQ-gi Gibraltar,2022,UEFA WCQ,gi Gibraltar,28.8,26.6
+2022-UEFA WCQ-gr Greece,2022,UEFA WCQ,gr Greece,27.4,47
+2022-UEFA WCQ-hu Hungary,2022,UEFA WCQ,hu Hungary,27.7,58.2
+2022-UEFA WCQ-is Iceland,2022,UEFA WCQ,is Iceland,28.2,48.1
+2022-UEFA WCQ-il Israel,2022,UEFA WCQ,il Israel,29.1,51.8
+2022-UEFA WCQ-it Italy,2022,UEFA WCQ,it Italy,28,67.1
+2022-UEFA WCQ-kz Kazakhstan,2022,UEFA WCQ,kz Kazakhstan,28.5,38.5
+2022-UEFA WCQ-xk Kosovo,2022,UEFA WCQ,xk Kosovo,26.7,40.6
+2022-UEFA WCQ-lv Latvia,2022,UEFA WCQ,lv Latvia,27.1,36.6
+2022-UEFA WCQ-li Liechtenstein,2022,UEFA WCQ,li Liechtenstein,26.6,24.7
+2022-UEFA WCQ-lt Lithuania,2022,UEFA WCQ,lt Lithuania,28.3,35.9
+2022-UEFA WCQ-lu Luxembourg,2022,UEFA WCQ,lu Luxembourg,26.7,47.5
+2022-UEFA WCQ-mt Malta,2022,UEFA WCQ,mt Malta,27.4,44.1
+2022-UEFA WCQ-md Moldova,2022,UEFA WCQ,md Moldova,29.3,36.8
+2022-UEFA WCQ-me Montenegro,2022,UEFA WCQ,me Montenegro,29,47.8
+2022-UEFA WCQ-mk N. Macedonia,2022,UEFA WCQ,mk N. Macedonia,27.6,51.4
+2022-UEFA WCQ-nl Netherlands,2022,UEFA WCQ,nl Netherlands,27.5,72.6
+2022-UEFA WCQ-nir Northern Ireland,2022,UEFA WCQ,nir Northern Ireland,28.7,44.6
+2022-UEFA WCQ-no Norway,2022,UEFA WCQ,no Norway,26.2,58.5
+2022-UEFA WCQ-pl Poland,2022,UEFA WCQ,pl Poland,27.9,61.1
+2022-UEFA WCQ-pt Portugal,2022,UEFA WCQ,pt Portugal,28.9,59.2
+2022-UEFA WCQ-ie Rep. of Ireland,2022,UEFA WCQ,ie Rep. of Ireland,27.2,47.3
+2022-UEFA WCQ-ro Romania,2022,UEFA WCQ,ro Romania,27.7,52.3
+2022-UEFA WCQ-ru Russia,2022,UEFA WCQ,ru Russia,28.3,47.8
+2022-UEFA WCQ-sm San Marino,2022,UEFA WCQ,sm San Marino,27.2,24.9
+2022-UEFA WCQ-sct Scotland,2022,UEFA WCQ,sct Scotland,27.8,49
+2022-UEFA WCQ-rs Serbia,2022,UEFA WCQ,rs Serbia,27.2,55.1
+2022-UEFA WCQ-sk Slovakia,2022,UEFA WCQ,sk Slovakia,28.4,56.7
+2022-UEFA WCQ-si Slovenia,2022,UEFA WCQ,si Slovenia,27.7,49.7
+2022-UEFA WCQ-es Spain,2022,UEFA WCQ,es Spain,27,76
+2022-UEFA WCQ-se Sweden,2022,UEFA WCQ,se Sweden,28.5,48.3
+2022-UEFA WCQ-ch Switzerland,2022,UEFA WCQ,ch Switzerland,28.4,63.6
+2022-UEFA WCQ-tr Turkey,2022,UEFA WCQ,tr Turkey,26.4,56.5
+2022-UEFA WCQ-ua Ukraine,2022,UEFA WCQ,ua Ukraine,27,53.7
+2022-UEFA WCQ-wls Wales,2022,UEFA WCQ,wls Wales,26.7,48.1
+2021-UEFA Euro Qualifiers-al Albania,2021,UEFA Euro Qualifiers,al Albania,28.3,56.3
+2021-UEFA Euro Qualifiers-ad Andorra,2021,UEFA Euro Qualifiers,ad Andorra,30,23.1
+2021-UEFA Euro Qualifiers-am Armenia,2021,UEFA Euro Qualifiers,am Armenia,30.4,39.7
+2021-UEFA Euro Qualifiers-at Austria,2021,UEFA Euro Qualifiers,at Austria,28.7,61
+2021-UEFA Euro Qualifiers-az Azerbaijan,2021,UEFA Euro Qualifiers,az Azerbaijan,28.2,40.3
+2021-UEFA Euro Qualifiers-by Belarus,2021,UEFA Euro Qualifiers,by Belarus,31.1,40.4
+2021-UEFA Euro Qualifiers-be Belgium,2021,UEFA Euro Qualifiers,be Belgium,29.5,65.4
+2021-UEFA Euro Qualifiers-ba Bosnia & Herz'na,2021,UEFA Euro Qualifiers,ba Bosnia & Herz'na,29.3,55.1
+2021-UEFA Euro Qualifiers-bg Bulgaria,2021,UEFA Euro Qualifiers,bg Bulgaria,30.2,42.6
+2021-UEFA Euro Qualifiers-hr Croatia,2021,UEFA Euro Qualifiers,hr Croatia,28.8,64.4
+2021-UEFA Euro Qualifiers-cy Cyprus,2021,UEFA Euro Qualifiers,cy Cyprus,28,51.4
+2021-UEFA Euro Qualifiers-cz Czech Republic,2021,UEFA Euro Qualifiers,cz Czech Republic,28.5,52.5
+2021-UEFA Euro Qualifiers-dk Denmark,2021,UEFA Euro Qualifiers,dk Denmark,29.6,61.3
+2021-UEFA Euro Qualifiers-eng England,2021,UEFA Euro Qualifiers,eng England,26.2,64.3
+2021-UEFA Euro Qualifiers-ee Estonia,2021,UEFA Euro Qualifiers,ee Estonia,29.5,38
+2021-UEFA Euro Qualifiers-fo Faroe Islands,2021,UEFA Euro Qualifiers,fo Faroe Islands,30.3,40.5
+2021-UEFA Euro Qualifiers-fi Finland,2021,UEFA Euro Qualifiers,fi Finland,29.3,52.6
+2021-UEFA Euro Qualifiers-fr France,2021,UEFA Euro Qualifiers,fr France,28.6,71.6
+2021-UEFA Euro Qualifiers-ge Georgia,2021,UEFA Euro Qualifiers,ge Georgia,29,49.2
+2021-UEFA Euro Qualifiers-de Germany,2021,UEFA Euro Qualifiers,de Germany,27.4,67.5
+2021-UEFA Euro Qualifiers-gi Gibraltar,2021,UEFA Euro Qualifiers,gi Gibraltar,28.7,26.5
+2021-UEFA Euro Qualifiers-gr Greece,2021,UEFA Euro Qualifiers,gr Greece,27.8,57.6
+2021-UEFA Euro Qualifiers-hu Hungary,2021,UEFA Euro Qualifiers,hu Hungary,28.8,49.8
+2021-UEFA Euro Qualifiers-is Iceland,2021,UEFA Euro Qualifiers,is Iceland,32,44.3
+2021-UEFA Euro Qualifiers-il Israel,2021,UEFA Euro Qualifiers,il Israel,30,55.4
+2021-UEFA Euro Qualifiers-it Italy,2021,UEFA Euro Qualifiers,it Italy,28,68.2
+2021-UEFA Euro Qualifiers-kz Kazakhstan,2021,UEFA Euro Qualifiers,kz Kazakhstan,28.6,46.2
+2021-UEFA Euro Qualifiers-xk Kosovo,2021,UEFA Euro Qualifiers,xk Kosovo,26,50
+2021-UEFA Euro Qualifiers-lv Latvia,2021,UEFA Euro Qualifiers,lv Latvia,29.1,33.9
+2021-UEFA Euro Qualifiers-li Liechtenstein,2021,UEFA Euro Qualifiers,li Liechtenstein,28.6,27.4
+2021-UEFA Euro Qualifiers-lt Lithuania,2021,UEFA Euro Qualifiers,lt Lithuania,29.6,36.1
+2021-UEFA Euro Qualifiers-lu Luxembourg,2021,UEFA Euro Qualifiers,lu Luxembourg,26.6,42.8
+2021-UEFA Euro Qualifiers-mt Malta,2021,UEFA Euro Qualifiers,mt Malta,29.2,32.9
+2021-UEFA Euro Qualifiers-md Moldova,2021,UEFA Euro Qualifiers,md Moldova,28.8,41.9
+2021-UEFA Euro Qualifiers-me Montenegro,2021,UEFA Euro Qualifiers,me Montenegro,28.8,42.8
+2021-UEFA Euro Qualifiers-mk N. Macedonia,2021,UEFA Euro Qualifiers,mk N. Macedonia,27.9,44.2
+2021-UEFA Euro Qualifiers-nl Netherlands,2021,UEFA Euro Qualifiers,nl Netherlands,27.8,65.9
+2021-UEFA Euro Qualifiers-nir Northern Ireland,2021,UEFA Euro Qualifiers,nir Northern Ireland,29.3,40.6
+2021-UEFA Euro Qualifiers-no Norway,2021,UEFA Euro Qualifiers,no Norway,28,52.4
+2021-UEFA Euro Qualifiers-pl Poland,2021,UEFA Euro Qualifiers,pl Poland,29.1,55
+2021-UEFA Euro Qualifiers-pt Portugal,2021,UEFA Euro Qualifiers,pt Portugal,29.2,63
+2021-UEFA Euro Qualifiers-ie Rep. of Ireland,2021,UEFA Euro Qualifiers,ie Rep. of Ireland,30.8,50.2
+2021-UEFA Euro Qualifiers-ro Romania,2021,UEFA Euro Qualifiers,ro Romania,28.5,49.8
+2021-UEFA Euro Qualifiers-ru Russia,2021,UEFA Euro Qualifiers,ru Russia,30,62.9
+2021-UEFA Euro Qualifiers-sm San Marino,2021,UEFA Euro Qualifiers,sm San Marino,27.6,22
+2021-UEFA Euro Qualifiers-sct Scotland,2021,UEFA Euro Qualifiers,sct Scotland,28.2,50.9
+2021-UEFA Euro Qualifiers-rs Serbia,2021,UEFA Euro Qualifiers,rs Serbia,28.5,52.9
+2021-UEFA Euro Qualifiers-sk Slovakia,2021,UEFA Euro Qualifiers,sk Slovakia,28.4,55.3
+2021-UEFA Euro Qualifiers-si Slovenia,2021,UEFA Euro Qualifiers,si Slovenia,29.4,50.8
+2021-UEFA Euro Qualifiers-es Spain,2021,UEFA Euro Qualifiers,es Spain,29.1,74.6
+2021-UEFA Euro Qualifiers-se Sweden,2021,UEFA Euro Qualifiers,se Sweden,30.2,51.2
+2021-UEFA Euro Qualifiers-ch Switzerland,2021,UEFA Euro Qualifiers,ch Switzerland,27.5,63.4
+2021-UEFA Euro Qualifiers-tr Turkey,2021,UEFA Euro Qualifiers,tr Turkey,27.6,60.7
+2021-UEFA Euro Qualifiers-ua Ukraine,2021,UEFA Euro Qualifiers,ua Ukraine,28.2,55.4
+2021-UEFA Euro Qualifiers-wls Wales,2021,UEFA Euro Qualifiers,wls Wales,27.2,43.6
+2022-CONMEBOL WCQ-ar Argentina,2022,CONMEBOL WCQ,ar Argentina,28.5,59.4
+2022-CONMEBOL WCQ-bo Bolivia,2022,CONMEBOL WCQ,bo Bolivia,28.4,42.6
+2022-CONMEBOL WCQ-br Brazil,2022,CONMEBOL WCQ,br Brazil,28.1,59.9
+2022-CONMEBOL WCQ-cl Chile,2022,CONMEBOL WCQ,cl Chile,30.6,53.9
+2022-CONMEBOL WCQ-co Colombia,2022,CONMEBOL WCQ,co Colombia,29.3,53.2
+2022-CONMEBOL WCQ-ec Ecuador,2022,CONMEBOL WCQ,ec Ecuador,26.3,51.6
+2022-CONMEBOL WCQ-py Paraguay,2022,CONMEBOL WCQ,py Paraguay,28.3,46.4
+2022-CONMEBOL WCQ-pe Peru,2022,CONMEBOL WCQ,pe Peru,29.9,45.3
+2022-CONMEBOL WCQ-uy Uruguay,2022,CONMEBOL WCQ,uy Uruguay,28.2,46.6
+2022-CONMEBOL WCQ-ve Venezuela,2022,CONMEBOL WCQ,ve Venezuela,27.4,42.8

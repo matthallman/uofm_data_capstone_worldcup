@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Large Match Data CSV
+
+/ML_Model_Data/CSVs/Predictions/all_knockout_matches.csv
+
 # Distribution / packaging
 .Python
 build/
