@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# CSVs to ignore
+/Resources/csvs/all_knockout_matches.csv
+/Resources/csvs/wc_rosters.csv
+
+
 # Distribution / packaging
 .Python
 build/
