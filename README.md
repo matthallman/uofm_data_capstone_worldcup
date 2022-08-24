@@ -8,4 +8,4 @@ Inspiration: Most of us are sports fans and if not then we are all interested in
 
  
 ### Resources Utilized to Complete Analysis
-[Tableau](https://public.tableau.com/views/FIFA2022WorldCupQualifying/WCQSummaryStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Vizualizations](https://public.tableau.com/views/WC22Results/WorldCupMLModelStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
