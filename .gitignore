@@ -10,6 +10,10 @@ __pycache__/
 /Resources/csvs/all_knockout_matches.csv
 /Resources/csvs/wc_rosters.csv
 /DB/WC22db.db
+/DB/db-queries/USArd8.csv
+/DB/db-queries/USArd16.csv
+/DB/db-queries/USArdFINALS.csv
+/DB/db-queries/USArdsemis.csv
 
 
 # Distribution / packaging
