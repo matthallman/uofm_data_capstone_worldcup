@@ -9,6 +9,7 @@ __pycache__/
 # CSVs to ignore
 /Resources/csvs/all_knockout_matches.csv
 /Resources/csvs/wc_rosters.csv
+/DB/WC22db.db
 
 
 # Distribution / packaging

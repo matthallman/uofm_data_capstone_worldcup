@@ -1,33 +1,33 @@
-Country,2022 Odds,2022 Implied Probability,Country,2018 Odds,2018 Implied Probability,2018 Results
-Brazil ,450,18.20%,Brazil ,650,13.30%,
-England ,550,15.40%,England ,1800,5.30%,4
-France ,600,14.30%,France ,700,12.50%,1
-Argentina ,700,12.50%,Argentina ,860,10.40%,
-Spain ,800,11.10%,Spain ,860,10.40%,
-Germany ,1000,9.10%,Germany ,530,15.90%,
-Portugal ,1200,7.70%,Portugal ,2600,3.70%,
-Netherlands ,1200,7.70%,Netherlands ,5000,,
-Belgium ,1400,6.70%,Belgium ,1600,5.90%,3
-Denmark ,2800,3.40%,Denmark ,20000,0.50%,
-Croatia ,5000,2.00%,Croatia ,4000,2.40%,2
-Uruguay ,5000,2.00%,Uruguay ,4400,2.20%,
-Switzerland ,8000,1.20%,Switzerland ,8500,1.20%,
-Senegal ,8000,1.20%,Senegal ,50000,,
-USA ,10000,1.00%,USA ,,,
-Poland ,12500,0.80%,Poland ,8000,1.20%,
-Serbia ,15000,0.70%,Serbia ,15000,0.70%,
-Mexico ,15000,0.70%,Mexico ,8500,1.20%,
-Ecuador ,15000,0.70%,Ecuador ,25000,0.40%,
-Canada ,15000,0.70%,Canada ,,,
-Wales ,15000,0.70%,Wales ,20000,,
-Cameroon ,20000,0.50%,Cameroon ,50000,,
-Morocco ,20000,0.50%,Morocco ,50000,,
-Japan ,25000,0.40%,Japan ,20000,,
-South Korea ,25000,0.40%,South Korea ,30000,,
-Ghana ,25000,0.40%,Ghana ,25000,,
-Australia ,25000,0.40%,Australia ,75000,,
-Qatar ,35000,0.30%,Qatar ,450000,,
-Tunisia ,35000,0.30%,Tunisia ,,,
-Saudi Arabia ,75000,0.10%,Saudi Arabia ,,,
-Iran ,75000,0.10%,Iran ,100000,,
-Costa Rica ,75000,0.10%,Costa Rica ,25000,,
+Country,2022 Odds,2022 Implied Probability,Model Results
+Brazil,450,18.20%,8.11%
+United Kingdom,550,15.40%,10.10%
+France,600,14.30%,5.03%
+Argentina,700,12.50%,1.76%
+Spain,800,11.10%,9.60%
+Germany,1000,9.10%,8.39%
+Portugal,1200,7.70%,5.89%
+Netherlands,1200,7.70%,13.92%
+Belgium,1400,6.70%,8.77%
+Denmark,2800,3.40%,4.50%
+Croatia,5000,2.00%,0.72%
+Uruguay,5000,2.00%,0.11%
+Switzerland,8000,1.20%,0.78%
+Senegal,8000,1.20%,4.41%
+United States,10000,1.00%,0.84%
+Poland,12500,0.80%,0.45%
+Serbia,15000,0.70%,0.62%
+Mexico,15000,0.70%,3.60%
+Ecuador,15000,0.70%,0.03%
+Canada,15000,0.70%,0.21%
+Wales,15000,0.70%,0.07%
+Cameroon,20000,0.50%,1.66%
+Morocco,20000,0.50%,4.86%
+Japan,25000,0.40%,0.15%
+South Korea,25000,0.40%,2.47%
+Ghana,25000,0.40%,0.03%
+Australia,25000,0.40%,0.58%
+Qatar,35000,0.30%,0.21%
+Tunisia,35000,0.30%,0.41%
+Saudi Arabia,75000,0.10%,0.31%
+Iran,75000,0.10%,1.38%
+Costa Rica,75000,0.10%,0.03%
