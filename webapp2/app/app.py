@@ -10,10 +10,20 @@ def home():
     # Return template and data
     return render_template("index.html")
 
-@app.route("/about_us")
-def about_us():
+@app.route("/about")
+def about():
     # Return template and data
-    return render_template("about_us.html")
+    return render_template("about.html")
+
+@app.route("/database")
+def database():
+    # Return template and data
+    return render_template("database.html")
+
+@app.route("/historical")
+def historical():
+    # Return template and data
+    return render_template("historical.html")
 
 #############################################################
 
