@@ -44,6 +44,11 @@ def project_details():
     # Return template and data
     return render_template("project_details.html")
 
+@app.route("/sources")
+def sources():
+    # Return template and data
+    return render_template("sources.html")
+
 #############################################################
 
 @app.after_request
