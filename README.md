@@ -22,3 +22,8 @@ Working on Tableau Dashboards, not fully done but creating a dashboard for each 
 Adding Map icons with hover mode with data pop up
 
 Need to meet with TA's and ask about Data table as other example projects only have one big data table but my data isn't all directly related.
+
+Update 8/27/22:
+
+Finished Tableau Dashboards/Stories, next step is to create HTML page with them all.
+Meet with TA's today and wrap up Database, have .db file but confused on how to create engine, embed, etc
