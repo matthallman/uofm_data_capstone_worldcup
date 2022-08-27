@@ -22,7 +22,7 @@ $(document).ready(function() {
 
 function initializeViz() {
     var placeholderDiv = document.getElementById("tableauViz");
-    var url = "https://public.tableau.com/views/FIFA2022WorldCupQualifying/WCQSummaryStory";
+    var url = "https://public.tableau.com/views/WC22Results/WorldCupMLModelStory";
     var options = {
         width: placeholderDiv.offsetWidth,
         height: placeholderDiv.offsetHeight,
