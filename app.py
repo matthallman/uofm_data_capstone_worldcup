@@ -1,4 +1,8 @@
-from flask import Flask, render_template, redirect
+from flask import Flask, render_template, redirect, request, jsonify
+# from modelHelper import ModelHelper
+# from sqlHelper import SQLHelper
+import json
+
 
 # Create an instance of Flask
 app = Flask(__name__)
@@ -24,6 +28,21 @@ def database():
 def historical():
     # Return template and data
     return render_template("historical.html")
+
+@app.route("/predictions")
+def predictions():
+    # Return template and data
+    return render_template("predictions.html")
+
+@app.route("/tableau")
+def tableau():
+    # Return template and data
+    return render_template("tableau.html")
+
+@app.route("/project_details")
+def project_details():
+    # Return template and data
+    return render_template("project_details.html")
 
 #############################################################
 
