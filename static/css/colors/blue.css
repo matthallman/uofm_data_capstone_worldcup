@@ -1,0 +1,67 @@
+/**
+ * WEBSITE: https://themefisher.com
+ * TWITTER: https://twitter.com/themefisher
+ * FACEBOOK: https://www.facebook.com/themefisher
+ * GITHUB: https://github.com/themefisher/
+ */
+
+/*
+ * Selection color
+ */
+::-moz-selection {
+  background-color: #1077C3;
+}
+
+::selection {
+  background-color: #1077C3;
+}
+
+/* background color */
+.btn-primary,
+.loading-mask,
+.section-title h3::after,
+.hexagon-item:hover .hex-item div::before,
+.hexagon-item:hover .hex-item div::after,
+.progress .bar,
+.contact-social li:hover span {
+  background-color: #1077C3;
+}
+
+.nicescroll-cursors {
+  background: #01077C3 !important;
+}
+
+/* color */
+.primary,
+.link:hover,
+.filter .active,
+.works-item h4,
+.msg-success {
+  color: #1077C3;
+}
+
+/* border color */
+.testimonials .owl-dot.active {
+  border-color: #1077C3;
+}
+
+/* border top color */
+.site-wrapper,
+.contact-social li:hover span::after,
+.contact-social-hex:hover::before {
+  border-top-color: #1077C3;
+}
+
+/* border bottom color */
+.filter .active,
+.contact-social li:hover span::before,
+.contact-social-hex:hover::after {
+  border-bottom-color: #1077C3
+}
+
+/* fill color */
+.service-hex:hover .fill,
+.service-hex:hover .st1 {
+  fill: #1077C3;
+}
+/*# sourceMappingURL=blue.css.map */
