@@ -2,9 +2,9 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 1957,10-Feb-57,,Sudan , Egypt,1,2,Semifinals,,Municipal Stadium, Khartoum,30000
 1957,10-Feb-57,,Ethiopia , South Africa,,,Semifinals,Ethiopia  wins due to disqualification of other team,,,
 1957,16-Feb-57,,Egypt , Ethiopia,4,0,Final,,Municipal Stadium, Khartoum,30000
-1959,22-May-59,,Egypt, Ethiopia,4,0,Final Tournament,,Prince Farouk Stadium, Cairo,30000
-1959,25-May-59,,Sudan , Ethiopia,1,0,Final Tournament,,Prince Farouk Stadium, Cairo,20000
-1959,29-May-59,,Egypt, Sudan,2,1,Final Tournament,,Prince Farouk Stadium, Cairo,30000
+1959,22-May-59,,Egypt, Ethiopia,4,0,Final,,Prince Farouk Stadium, Cairo,30000
+1959,25-May-59,,Sudan , Ethiopia,1,0,Final,,Prince Farouk Stadium, Cairo,20000
+1959,29-May-59,,Egypt, Sudan,2,1,Final,,Prince Farouk Stadium, Cairo,30000
 1962,14-Jan-62,,Ethiopia , Tunisia,4,2,Semifinals,,Hailé Sélassié Stadium, Addis Ababa,30000
 1962,18-Jan-62,,Egypt, Uganda,2,1,Semifinals,,Hailé Sélassié Stadium, Addis Ababa,30000
 1962,20-Jan-62,,Tunisia , Uganda,3,0,Third place match,,Hailé Sélassié Stadium, Addis Ababa,
@@ -37,8 +37,8 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 1968,14-Jan-68,,Ghana , Congo-Kinshasa,2,1,Group B,,Cicero Stadium, Asmara,3000
 1968,16-Jan-68,,Congo-Kinshasa , Senegal,2,1,Group B,,Cicero Stadium, Asmara,3000
 1968,16-Jan-68,,Ghana , Congo-Brazzaville,3,1,Group B,,Cicero Stadium, Asmara,3000
-1968,19-Jan-68,,Ethiopia , Congo-Kinshasa,2,3,Semi-finals, win after extra time ,Hailé Sélassié Stadium, Addis Ababa,25000
-1968,19-Jan-68,,Ghana , Ivory Coast,4,3,Semi-finals, win after extra time ,Cicero Stadium, Asmara,5000
+1968,19-Jan-68,,Ethiopia , Congo-Kinshasa,2,3,Semifinals, win after extra time ,Hailé Sélassié Stadium, Addis Ababa,25000
+1968,19-Jan-68,,Ghana , Ivory Coast,4,3,Semifinals, win after extra time ,Cicero Stadium, Asmara,5000
 1968,21-Jan-68,,Ivory Coast , Ethiopia,1,0,Third place match,,Hailé Sélassié Stadium, Addis Ababa,10000
 1968,21-Jan-68,,Congo-Kinshasa , Ghana,1,0,Final,,Hailé Sélassié Stadium, Addis Ababa,25000
 1970,6-Feb-70,,Cameroon , Ivory Coast,3,2,Group A,,Municipal Stadium, Khartoum,14464
@@ -120,8 +120,8 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 1978,9-Mar-78,,Morocco , Congo,1,0,Group B,,Kumasi Sports Stadium, Kumasi,20000
 1978,11-Mar-78,,Congo , Tunisia,0,0,Group B,,Kumasi Sports Stadium, Kumasi,10000
 1978,11-Mar-78,,Uganda , Morocco,3,0,Group B,,Kumasi Sports Stadium, Kumasi,10000
-1978,14-Mar-78,,Ghana , Tunisia,1,0,Semi-finals,,Accra Sports Stadium, Accra,40000
-1978,14-Mar-78,,Uganda , Nigeria,2,1,Semi-finals,,Kumasi Sports Stadium, Kumasi,
+1978,14-Mar-78,,Ghana , Tunisia,1,0,Semifinals,,Accra Sports Stadium, Accra,40000
+1978,14-Mar-78,,Uganda , Nigeria,2,1,Semifinals,,Kumasi Sports Stadium, Kumasi,
 1978,16-Mar-78,,Nigeria , Tunisia,1,11,Third place match,,Accra Sports Stadium, Accra,
 1978,16-Mar-78,,Ghana , Uganda,2,0,Final,,Accra Sports Stadium, Accra,
 1980,8-Mar-80,,Nigeria , Tanzania,3,1,Group A,,Surulere Stadium, Lagos,80000
@@ -136,8 +136,8 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 1980,13-Mar-80,,Ghana , Guinea,1,0,Group B,,Liberty Stadium, Ibadan,20000
 1980,16-Mar-80,,Algeria , Guinea,3,2,Group B,,Liberty Stadium, Ibadan,20000
 1980,16-Mar-80,,Morocco , Ghana,1,0,Group B,,Liberty Stadium, Ibadan,20000
-1980,19-Mar-80,,Nigeria , Morocco,1,0,Semi-finals,,Surulere Stadium, Lagos,70000
-1980,19-Mar-80,,Algeria , Egypt,2,2,Semi-finals,,Liberty Stadium, Ibadan,5000
+1980,19-Mar-80,,Nigeria , Morocco,1,0,Semifinals,,Surulere Stadium, Lagos,70000
+1980,19-Mar-80,,Algeria , Egypt,2,2,Semifinals,,Liberty Stadium, Ibadan,5000
 1980,21-Mar-80,,Morocco , Egypt,2,0,Third place match,,Surulere Stadium, Lagos,5000
 1980,22-Mar-80,,Nigeria , Algeria,3,0,Final,,Surulere Stadium, Lagos,85000
 1982,5-Mar-82,,Libya , Ghana,2,2,Group A,,11 June Stadium, Tripoli,45200
@@ -216,8 +216,8 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 1990,6-Mar-90,,Senegal , Cameroon,2,0,Group B,,Stade 19 Mai 1956, Annaba,22000
 1990,9-Mar-90,,Zambia , Senegal,0,0,Group B,,Stade 19 Mai 1956, Annaba,18000
 1990,9-Mar-90,,Cameroon , Kenya,2,0,Group B,,Stade 19 Mai 1956, Annaba,13000
-1990,12-Mar-90,,Zambia , Nigeria,0,2,Semi-finals,,Stade 19 Mai 1956, Annaba,27000
-1990,12-Mar-90,,Algeria , Senegal,2,1,Semi-finals,,Stade 5 Juillet 1962, Algiers,88000
+1990,12-Mar-90,,Zambia , Nigeria,0,2,Semifinals,,Stade 19 Mai 1956, Annaba,27000
+1990,12-Mar-90,,Algeria , Senegal,2,1,Semifinals,,Stade 5 Juillet 1962, Algiers,88000
 1990,15-Mar-90,,Zambia , Senegal,1,0,Third place match,,Stade 5 Juillet 1962, Algiers,33000
 1990,16-Mar-90,16:00,Algeria , Nigeria,1,0,Final,,Stade 5 Juillet 1962, Algiers,105032
 1992,12-Jan-92,,Nigeria , Senegal,2,1,Group A,,Stade de l'Amitié, Dakar,60000
@@ -232,12 +232,12 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 1992,13-Jan-92,,Zambia , Egypt,1,0,Group D,,Stade Aline Sitoe Diatta, Ziguinchor,5000
 1992,15-Jan-92,,Ghana , Zambia,1,0,Group D,,Stade Aline Sitoe Diatta, Ziguinchor,5000
 1992,17-Jan-92,,Ghana , Egypt,1,0,Group D,,Stade Aline Sitoe Diatta, Ziguinchor,5000
-1992,19-Jan-92,,Nigeria , Zaire,1,0,Quarter-finals,,Stade de l'Amitié, Dakar,10000
-1992,19-Jan-92,,Cameroon , Senegal,1,0,Quarter-finals,,Stade de l'Amitié, Dakar,35000
-1992,20-Jan-92,,Ivory Coast , Zambia,1,0,Quarter-finals,Ivory Coast  win after extra time ,Stade de l'Amitié, Dakar,3000
-1992,20-Jan-92,,Ghana , Congo,2,1,Quarter-finals,,Stade de l'Amitié, Dakar,15000
-1992,23-Jan-92,,Ghana , Nigeria,2,1,Semi-finals,,Stade de l'Amitié, Dakar,30000
-1992,23-Jan-92,,Cameroon , Ivory Coast,0,0,Semi-finals, Ivory Coast win on Penalities 1-3,Stade de l'Amitié, Dakar,35000
+1992,19-Jan-92,,Nigeria , Zaire,1,0,Quarterfinals,,Stade de l'Amitié, Dakar,10000
+1992,19-Jan-92,,Cameroon , Senegal,1,0,Quarterfinals,,Stade de l'Amitié, Dakar,35000
+1992,20-Jan-92,,Ivory Coast , Zambia,1,0,Quarterfinals,Ivory Coast  win after extra time ,Stade de l'Amitié, Dakar,3000
+1992,20-Jan-92,,Ghana , Congo,2,1,Quarterfinals,,Stade de l'Amitié, Dakar,15000
+1992,23-Jan-92,,Ghana , Nigeria,2,1,Semifinals,,Stade de l'Amitié, Dakar,30000
+1992,23-Jan-92,,Cameroon , Ivory Coast,0,0,Semifinals, Ivory Coast win on Penalities 1-3,Stade de l'Amitié, Dakar,35000
 1992,25-Jan-92,,Nigeria , Cameroon,2,1,Third place match,,Stade de l'Amitié, Dakar,2000
 1992,26-Jan-92,,Ivory Coast , Ghana,0,0,Final,Ivory Coast  win on Penalities 11-10,Stade de l'Amitié, Dakar,47500
 1994,26-Mar-94,,Tunisia , Mali,0,2,Group A,,Stade El Menzah, Tunis,45000
@@ -409,12 +409,12 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 2004,31-Jan-04,18:00,Morocco , Benin,4,0,Group D,,Stade Taïeb El Mhiri, Sfax,20000
 2004,4-Feb-04,18:00,Morocco , South Africa,1,1,Group D,,Stade Olympique de Sousse, Sousse,6000
 2004,4-Feb-04,18:00,Nigeria , Benin,2,1,Group D,,Stade Taïeb El Mhiri, Sfax,15000
-2004,7-Feb-04,14:00,Mali , Guinea,2,1,Quarter-finals,,Stade El Menzah, Tunis,1450
-2004,7-Feb-04,17:00,Tunisia , Senegal,1,0,Quarter-finals,,Stade 7 Novembre, Rades,57000
-2004,8-Feb-04,14:00,Cameroon , Nigeria,1,2,Quarter-finals,,Stade Mustapha Ben Jannet, Monastir,14750
-2004,8-Feb-04,17:00,Morocco , Algeria,3,1,Quarter-finals, win after extra time ,Stade Taïeb El Mhiri, Sfax,22000
-2004,11-Feb-04,16:00,Tunisia , Nigeria,1,1,Semi-finals,Tunisia  win on Penalities 5-3,Stade 7 Novembre, Radès,56000
-2004,11-Feb-04,19:00,Morocco , Mali,4,0,Semi-finals,,Stade Olympique de Sousse, Sousse,15000
+2004,7-Feb-04,14:00,Mali , Guinea,2,1,Quarterfinals,,Stade El Menzah, Tunis,1450
+2004,7-Feb-04,17:00,Tunisia , Senegal,1,0,Quarterfinals,,Stade 7 Novembre, Rades,57000
+2004,8-Feb-04,14:00,Cameroon , Nigeria,1,2,Quarterfinals,,Stade Mustapha Ben Jannet, Monastir,14750
+2004,8-Feb-04,17:00,Morocco , Algeria,3,1,Quarterfinals, win after extra time ,Stade Taïeb El Mhiri, Sfax,22000
+2004,11-Feb-04,16:00,Tunisia , Nigeria,1,1,Semifinals,Tunisia  win on Penalities 5-3,Stade 7 Novembre, Radès,56000
+2004,11-Feb-04,19:00,Morocco , Mali,4,0,Semifinals,,Stade Olympique de Sousse, Sousse,15000
 2004,13-Feb-04,20:00,Nigeria , Mali,2,1,Third place match,,Stade Mustapha Ben Jannet, Monastir,2500
 2004,14-Feb-04,14:30,Tunisia , Morocco,2,1,Final,,Stade 7 Novembre, Radès,65000
 2006,20-Jan-06,19:00,Egypt , Libya,3,0,Group A,,Cairo International Stadium, Cairo,65000
@@ -441,13 +441,13 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 2006,27-Jan-06,20:00,Nigeria , Zimbabwe,2,0,Group D,,Port Said Stadium, Port Said,10000
 2006,31-Jan-06,19:00,Nigeria , Senegal,2,1,Group D,,Port Said Stadium, Port Said,17000
 2006,31-Jan-06,19:00,Ghana , Zimbabwe,1,2,Group D,,Ismailia Stadium, Ismailia,18500
-2006,3-Feb-06,15:00,Guinea , Senegal,2,3,Quarter-finals,,Harras El-Hedoud Stadium, Alexandria,17000
-2006,3-Feb-06,19:00,Egypt , DR Congo,4,1,Quarter-finals,,Cairo International Stadium, Cairo,74000
-2006,4-Feb-06,15:00,Nigeria , Tunisia,1,1,Quarter-finals,Nigeria  win on Penalities 6-5,Port Said Stadium, Port Said,10000
-2006,4-Feb-06,19:00,Cameroon , Ivory Coast,1,1,Quarter-finals, Ivory Coast win on Penalities 11-12,Cairo Military Academy Stadium, Cairo,4000
-2006,7-Feb-06,19:00,Egypt , Senegal,2,1,Semi-finals,,Cairo International Stadium, Cairo,74100
-2006,7-Feb-06,15:00,Nigeria , Ivory Coast,0,1,Semi-finals,,Harras El-Hedoud Stadium, Alexandria,20000
-2006,9-Feb-06,18:00,Senegal , Nigeria,0,1,Third-place match,,Cairo Military Academy Stadium, Cairo,11354
+2006,3-Feb-06,15:00,Guinea , Senegal,2,3,Quarterfinals,,Harras El-Hedoud Stadium, Alexandria,17000
+2006,3-Feb-06,19:00,Egypt , DR Congo,4,1,Quarterfinals,,Cairo International Stadium, Cairo,74000
+2006,4-Feb-06,15:00,Nigeria , Tunisia,1,1,Quarterfinals,Nigeria  win on Penalities 6-5,Port Said Stadium, Port Said,10000
+2006,4-Feb-06,19:00,Cameroon , Ivory Coast,1,1,Quarterfinals, Ivory Coast win on Penalities 11-12,Cairo Military Academy Stadium, Cairo,4000
+2006,7-Feb-06,19:00,Egypt , Senegal,2,1,Semifinals,,Cairo International Stadium, Cairo,74100
+2006,7-Feb-06,15:00,Nigeria , Ivory Coast,0,1,Semifinals,,Harras El-Hedoud Stadium, Alexandria,20000
+2006,9-Feb-06,18:00,Senegal , Nigeria,0,1,Third place match,,Cairo Military Academy Stadium, Cairo,11354
 2006,10-Feb-06,18:00,Egypt , Ivory Coast,0,0,Final,Egypt  win on Penalities 4-2,Cairo International Stadium, Cairo,74100
 2008,20-Jan-08,17:00,Ghana , Guinea,2,1,Group A,,Ohene Djan Stadium, Accra,35000
 2008,21-Jan-08,15:00,Namibia , Morocco,1,5,Group A,,Ohene Djan Stadium, Accra,2000
@@ -473,12 +473,12 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 2008,27-Jan-08,19:30,Tunisia , South Africa,3,1,Group D,,Tamale Stadium, Tamale,15000
 2008,31-Jan-08,17:00,Senegal , South Africa,1,1,Group D,,Baba Yara Stadium, Kumasi,15000
 2008,31-Jan-08,17:00,Tunisia , Angola,0,0,Group D,,Tamale Stadium, Tamale,10000
-2008,3-Feb-08,17:00,Ghana , Nigeria,2,1,Quarter-finals,,Ohene Djan Stadium, Accra,45000
-2008,3-Feb-08,20:30,Ivory Coast , Guinea,5,0,Quarter-finals,,Sekondi Stadium, Sekondi,14000
-2008,4-Feb-08,17:00,Egypt , Angola,2,1,Quarter-finals,,Baba Yara Stadium, Kumasi,6000
-2008,4-Feb-08,20:30,Tunisia , Cameroon,2,3,Quarter-finals, win after extra time ,Tamale Stadium, Tamale,15000
-2008,7-Feb-08,17:00,Ghana , Cameroon,0,1,Semi-finals,,Ohene Djan Stadium, Accra,40000
-2008,7-Feb-08,20:30,Ivory Coast , Egypt,1,4,Semi-finals,,Baba Yara Stadium, Kumasi,30000
+2008,3-Feb-08,17:00,Ghana , Nigeria,2,1,Quarterfinals,,Ohene Djan Stadium, Accra,45000
+2008,3-Feb-08,20:30,Ivory Coast , Guinea,5,0,Quarterfinals,,Sekondi Stadium, Sekondi,14000
+2008,4-Feb-08,17:00,Egypt , Angola,2,1,Quarterfinals,,Baba Yara Stadium, Kumasi,6000
+2008,4-Feb-08,20:30,Tunisia , Cameroon,2,3,Quarterfinals, win after extra time ,Tamale Stadium, Tamale,15000
+2008,7-Feb-08,17:00,Ghana , Cameroon,0,1,Semifinals,,Ohene Djan Stadium, Accra,40000
+2008,7-Feb-08,20:30,Ivory Coast , Egypt,1,4,Semifinals,,Baba Yara Stadium, Kumasi,30000
 2008,9-Feb-08,17:00,Ghana , Ivory Coast,4,2,Third place match,,Baba Yara Stadium, Kumasi,40000
 2008,10-Feb-08,17:00,Cameroon , Egypt,0,1,Final,,Ohene Djan Stadium, Accra,35500
 2010,10-Jan-10,20:00,Angola , Mali,4,4,Group A,,Estádio 11 de Novembro, Luanda,45000
@@ -505,13 +505,13 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 2010,17-Jan-10,19:30,Cameroon , Zambia,3,2,Group D,,Estádio Nacional da Tundavala, Lubango,15000
 2010,21-Jan-10,17:00,Gabon , Zambia,1,2,Group D,,Estádio Nacional de Ombaka, Benguela,11065
 2010,21-Jan-10,17:00,Cameroon , Tunisia,2,2,Group D,,Estádio Nacional da Tundavala, Lubango,19000
-2010,24-Jan-10,17:00,Angola , Ghana,0,1,Quarter-finals,,Estádio 11 de Novembro, Luanda,50000
-2010,24-Jan-10,20:30,Ivory Coast , Algeria,2,3,Quarter-finals, win after extra time ,Estádio do Chiazi, Cabinda,10000
-2010,25-Jan-10,17:00,Egypt , Cameroon,3,1,Quarter-finals, win after extra time ,Estádio Nacional de Ombaka, Benguela,12000
-2010,25-Jan-10,20:30,Zambia , Nigeria,0,0,Quarter-finals, Nigeria win on Penalities 4-5,Estádio Nacional da Tundavala, Lubango,10000
-2010,28-Jan-10,16:00,Ghana , Nigeria,1,0,Semi-finals,,Estádio 11 de Novembro, Luanda,7500
-2010,28-Jan-10,20:30,Algeria , Egypt,0,4,Semi-finals,,Estádio Nacional de Ombaka, Benguela,25000
-2010,30-Jan-10,17:00,Nigeria , Algeria,1,0,Third place play-off,,Estádio Nacional de Ombaka, Benguela,12000
+2010,24-Jan-10,17:00,Angola , Ghana,0,1,Quarterfinals,,Estádio 11 de Novembro, Luanda,50000
+2010,24-Jan-10,20:30,Ivory Coast , Algeria,2,3,Quarterfinals, win after extra time ,Estádio do Chiazi, Cabinda,10000
+2010,25-Jan-10,17:00,Egypt , Cameroon,3,1,Quarterfinals, win after extra time ,Estádio Nacional de Ombaka, Benguela,12000
+2010,25-Jan-10,20:30,Zambia , Nigeria,0,0,Quarterfinals, Nigeria win on Penalities 4-5,Estádio Nacional da Tundavala, Lubango,10000
+2010,28-Jan-10,16:00,Ghana , Nigeria,1,0,Semifinals,,Estádio 11 de Novembro, Luanda,7500
+2010,28-Jan-10,20:30,Algeria , Egypt,0,4,Semifinals,,Estádio Nacional de Ombaka, Benguela,25000
+2010,30-Jan-10,17:00,Nigeria , Algeria,1,0,Third place match,,Estádio Nacional de Ombaka, Benguela,12000
 2010,31-Jan-10,17:00,Ghana , Egypt,0,1,Final,,Estádio 11 de Novembro, Luanda,45000
 2012,4-Feb-12,17:00,Zambia , Sudan,3,0,Quarterfinals,,Estadio de Bata, Bata,200
 2012,4-Feb-12,20:00,Ivory Coast , Equatorial Guinea,3,0,Quarterfinals,,Nuevo Estadio de Malabo, Malabo,12500
@@ -521,21 +521,21 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 2012,8-Feb-12,20:00,Mali , Ivory Coast,0,1,Semifinals,,Stade d'Angondjé, Libreville,32000
 2012,11-Feb-12,20:00,Ghana , Mali,0,2,Third place match,,Nuevo Estadio de Malabo, Malabo,15000
 2012,12-Feb-12,20:30[note 1],Zambia , Ivory Coast,0,0,Final,Zambia  win on Penalities 8-7,Stade d'Angondjé, Libreville,40000
-2013,2-Feb-13,17:00,Ghana , Cape Verde,2,0,Quarter-finals,,Nelson Mandela Bay Stadium, Port Elizabeth,8000
-2013,2-Feb-13,20:30,South Africa , Mali,1,1,Quarter-finals, Mali win on Penalities 1-3,Moses Mabhida Stadium, Durban,45000
-2013,3-Feb-13,17:00,Ivory Coast , Nigeria,1,2,Quarter-finals,,Royal Bafokeng Stadium, Rustenburg,25000
-2013,3-Feb-13,20:30,Burkina Faso , Togo,1,0,Quarter-finals, win after extra time ,Mbombela Stadium, Nelspruit,27000
-2013,6-Feb-13,17:00,Mali , Nigeria,1,4,Semi-finals,,Moses Mabhida Stadium, Durban,54000
-2013,6-Feb-13,20:30,Burkina Faso , Ghana,1,1,Semi-finals,Burkina Faso  win on Penalities 3-2,Mbombela Stadium, Nelspruit,35000
-2013,9-Feb-13,20:00,Mali , Ghana,3,1,Third place play-off,,Nelson Mandela Bay Stadium, Port Elizabeth,6000
+2013,2-Feb-13,17:00,Ghana , Cape Verde,2,0,Quarterfinals,,Nelson Mandela Bay Stadium, Port Elizabeth,8000
+2013,2-Feb-13,20:30,South Africa , Mali,1,1,Quarterfinals, Mali win on Penalities 1-3,Moses Mabhida Stadium, Durban,45000
+2013,3-Feb-13,17:00,Ivory Coast , Nigeria,1,2,Quarterfinals,,Royal Bafokeng Stadium, Rustenburg,25000
+2013,3-Feb-13,20:30,Burkina Faso , Togo,1,0,Quarterfinals, win after extra time ,Mbombela Stadium, Nelspruit,27000
+2013,6-Feb-13,17:00,Mali , Nigeria,1,4,Semifinals,,Moses Mabhida Stadium, Durban,54000
+2013,6-Feb-13,20:30,Burkina Faso , Ghana,1,1,Semifinals,Burkina Faso  win on Penalities 3-2,Mbombela Stadium, Nelspruit,35000
+2013,9-Feb-13,20:00,Mali , Ghana,3,1,Third place match,,Nelson Mandela Bay Stadium, Port Elizabeth,6000
 2013,10-Feb-13,20:30,Nigeria , Burkina Faso,1,0,Final,,FNB Stadium, Johannesburg,85000
-2015,31-Jan-15,17:00,Congo , DR Congo,2,4,Quarter-finals,,Estadio de Bata, Bata,31670
-2015,31-Jan-15,20:30,Tunisia , Equatorial Guinea,1,2,Quarter-finals, win after extra time ,Estadio de Bata, Bata,41000
-2015,1-Feb-15,17:00,Ghana , Guinea,3,0,Quarter-finals,,Nuevo Estadio de Malabo, Malabo,14500
-2015,1-Feb-15,20:30,Ivory Coast , Algeria,3,1,Quarter-finals,,Nuevo Estadio de Malabo, Malabo,15000
-2015,4-Feb-15,20:00,DR Congo , Ivory Coast,1,3,Semi-finals,,Estadio de Bata, Bata,30000
-2015,5-Feb-15,20:00,Ghana , Equatorial Guinea,3,0,Semi-finals,,Nuevo Estadio de Malabo, Malabo,15520
-2015,7-Feb-15,17:00,DR Congo , Equatorial Guinea,0,0,Third place play-off,,Nuevo Estadio de Malabo, Malabo,15520
+2015,31-Jan-15,17:00,Congo , DR Congo,2,4,Quarterfinals,,Estadio de Bata, Bata,31670
+2015,31-Jan-15,20:30,Tunisia , Equatorial Guinea,1,2,Quarterfinals, win after extra time ,Estadio de Bata, Bata,41000
+2015,1-Feb-15,17:00,Ghana , Guinea,3,0,Quarterfinals,,Nuevo Estadio de Malabo, Malabo,14500
+2015,1-Feb-15,20:30,Ivory Coast , Algeria,3,1,Quarterfinals,,Nuevo Estadio de Malabo, Malabo,15000
+2015,4-Feb-15,20:00,DR Congo , Ivory Coast,1,3,Semifinals,,Estadio de Bata, Bata,30000
+2015,5-Feb-15,20:00,Ghana , Equatorial Guinea,3,0,Semifinals,,Nuevo Estadio de Malabo, Malabo,15520
+2015,7-Feb-15,17:00,DR Congo , Equatorial Guinea,0,0,Third place match,,Nuevo Estadio de Malabo, Malabo,15520
 2015,8-Feb-15,20:00,Ivory Coast , Ghana,0,0,Final,Ivory Coast  win on Penalities 9-8,Estadio de Bata, Bata,32857
 2017,14 January 2017 (2017-01-14),17:00,Gabon , Guinea-Bissau,1,1,Group A,,Stade de l'Amitié, Libreville,39230
 2017,14 January 2017 (2017-01-14),20:00,Burkina Faso , Cameroon,1,1,Group A,,Stade de l'Amitié, Libreville,20720
@@ -561,13 +561,13 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 2017,21 January 2017 (2017-01-21),20:00,Egypt , Uganda,1,0,Group D,,Stade de Port-Gentil, Port-Gentil,
 2017,25 January 2017 (2017-01-25),20:00,Egypt , Ghana,1,0,Group D,,Stade de Port-Gentil, Port-Gentil,
 2017,25 January 2017 (2017-01-25),20:00,Uganda , Mali,1,1,Group D,,Stade d'Oyem, Oyem,
-2017,28 January 2017 (2017-01-28),17:00,Burkina Faso , Tunisia,2,0,Quarter-finals,,Stade de l'Amitié, Libreville,
-2017,28 January 2017 (2017-01-28),20:00,Senegal , Cameroon,0,0,Quarter-finals, Cameroon win on Penalities 4-5,Stade de Franceville, Franceville,
-2017,29 January 2017 (2017-01-29),17:00,DR Congo , Ghana,1,2,Quarter-finals,,Stade d'Oyem, Oyem,
-2017,29 January 2017 (2017-01-29),20:00,Egypt , Morocco,1,0,Quarter-finals,,Stade de Port-Gentil, Port-Gentil,
-2017,1 February 2017 (2017-02-01),20:00,Burkina Faso , Egypt,1,1,Semi-finals, Egypt win on Penalities 3-4,Stade de l'Amitié, Libreville,
-2017,2 February 2017 (2017-02-02),20:00,Cameroon , Ghana,2,0,Semi-finals,,Stade de Franceville, Franceville,
-2017,4 February 2017 (2017-02-04),20:00,Burkina Faso , Ghana,1,0,Third place play-off,,Stade de Port-Gentil, Port-Gentil,
+2017,28 January 2017 (2017-01-28),17:00,Burkina Faso , Tunisia,2,0,Quarterfinals,,Stade de l'Amitié, Libreville,
+2017,28 January 2017 (2017-01-28),20:00,Senegal , Cameroon,0,0,Quarterfinals, Cameroon win on Penalities 4-5,Stade de Franceville, Franceville,
+2017,29 January 2017 (2017-01-29),17:00,DR Congo , Ghana,1,2,Quarterfinals,,Stade d'Oyem, Oyem,
+2017,29 January 2017 (2017-01-29),20:00,Egypt , Morocco,1,0,Quarterfinals,,Stade de Port-Gentil, Port-Gentil,
+2017,1 February 2017 (2017-02-01),20:00,Burkina Faso , Egypt,1,1,Semifinals, Egypt win on Penalities 3-4,Stade de l'Amitié, Libreville,
+2017,2 February 2017 (2017-02-02),20:00,Cameroon , Ghana,2,0,Semifinals,,Stade de Franceville, Franceville,
+2017,4 February 2017 (2017-02-04),20:00,Burkina Faso , Ghana,1,0,Third place match,,Stade de Port-Gentil, Port-Gentil,
 2017,5 February 2017 (2017-02-05),20:00,Egypt , Cameroon,1,2,Final,,Stade de l'Amitié, Libreville,
 2019,21 June 2019 (2019-06-21),22:00,Egypt , Zimbabwe,1,0,Group A,,Cairo International Stadium, Cairo,73299
 2019,22 June 2019 (2019-06-22),16:30,DR Congo , Uganda,0,2,Group A,,Cairo International Stadium, Cairo,1083
@@ -613,11 +613,11 @@ Year,Date ,Time ,HomeTeam,AwayTeam,HomeTeamGoals,AwayTeamGoals,Stage,SpecialWinC
 2019,7 July 2019 (2019-07-07),21:00,Algeria , Guinea,3,0,Round of 16,,30 June Stadium, Cairo,8205
 2019,8 July 2019 (2019-07-08),18:00,Mali , Ivory Coast,0,1,Round of 16,,Suez Stadium, Suez,7672
 2019,8 July 2019 (2019-07-08),21:00,Ghana , Tunisia,1,1,Round of 16, Tunisia win on Penalities 4-5,Ismailia Stadium, Ismailia,8890
-2019,10 July 2019 (2019-07-10),18:00,Senegal , Benin,1,0,Quarter-finals,,30 June Stadium, Cairo,5798
-2019,10 July 2019 (2019-07-10),21:00,Nigeria , South Africa,2,1,Quarter-finals,,Cairo International Stadium, Cairo,48343
-2019,11 July 2019 (2019-07-11),18:00,Ivory Coast , Algeria,1,1,Quarter-finals, Algeria win on Penalities 3-4,Suez Stadium, Suez,8233
-2019,11 July 2019 (2019-07-11),21:00,Madagascar , Tunisia,0,3,Quarter-finals,,Al Salam Stadium, Cairo,7568
-2019,14 July 2019 (2019-07-14),18:00,Senegal , Tunisia,1,0,Semi-finals, win after extra time ,30 June Stadium, Cairo,9143
-2019,14 July 2019 (2019-07-14),21:00,Algeria , Nigeria,2,1,Semi-finals,,Cairo International Stadium, Cairo,49775
-2019,17 July 2019 (2019-07-17),21:00,Tunisia , Nigeria,0,1,Third place play-off,,Al Salam Stadium, Cairo,6340
+2019,10 July 2019 (2019-07-10),18:00,Senegal , Benin,1,0,Quarterfinals,,30 June Stadium, Cairo,5798
+2019,10 July 2019 (2019-07-10),21:00,Nigeria , South Africa,2,1,Quarterfinals,,Cairo International Stadium, Cairo,48343
+2019,11 July 2019 (2019-07-11),18:00,Ivory Coast , Algeria,1,1,Quarterfinals, Algeria win on Penalities 3-4,Suez Stadium, Suez,8233
+2019,11 July 2019 (2019-07-11),21:00,Madagascar , Tunisia,0,3,Quarterfinals,,Al Salam Stadium, Cairo,7568
+2019,14 July 2019 (2019-07-14),18:00,Senegal , Tunisia,1,0,Semifinals, win after extra time ,30 June Stadium, Cairo,9143
+2019,14 July 2019 (2019-07-14),21:00,Algeria , Nigeria,2,1,Semifinals,,Cairo International Stadium, Cairo,49775
+2019,17 July 2019 (2019-07-17),21:00,Tunisia , Nigeria,0,1,Third place match,,Al Salam Stadium, Cairo,6340
 2019,19 July 2019 (2019-07-19),21:00,Senegal , Algeria,0,1,Final,,Cairo International Stadium, Cairo,75000
