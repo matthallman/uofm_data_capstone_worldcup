@@ -27,3 +27,14 @@ Update 8/27/22:
 
 Finished Tableau Dashboards/Stories, next step is to create HTML page with them all.
 Meet with TA's today and wrap up Database, have .db file but confused on how to create engine, embed, etc
+
+Update 8/28/22:
+
+Finished Database (created .sqlite file)
+Next steps - 
+ - Custom Queries for Database
+ - Connect to HTML
+ - Add Tableau to HTML 
+ - Finish my sections of Write-up
+ 
+ Last couple things!
