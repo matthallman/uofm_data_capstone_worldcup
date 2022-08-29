@@ -1,34 +1,33 @@
-Country,Win Count,Win %
-Argentina,1758,1.76%
-Australia,583,0.58%
-Belgium,8772,8.77%
-Brazil,8105,8.11%
-Cameroon,1664,1.66%
-Canada,210,0.21%
-Costa Rica,28,0.03%
-Croatia,722,0.72%
-Denmark,4496,4.50%
-Ecuador,31,0.03%
-United Kingdom,10104,10.10%
-France,5031,5.03%
-Germany,8391,8.39%
-Ghana,31,0.03%
-Iran,1377,1.38%
-Japan,152,0.15%
-Mexico,3599,3.60%
-Morocco,4856,4.86%
-Netherlands,13920,13.92%
-Poland,454,0.45%
-Portugal,5891,5.89%
-Qatar,210,0.21%
-Saudi Arabia,314,0.31%
-Senegal,4409,4.41%
-Serbia,618,0.62%
-South Korea,2468,2.47%
-Spain,9598,9.60%
-Switzerland,776,0.78%
-Tunisia,409,0.41%
-United States,840,0.84%
-Uruguay,109,0.11%
-Wales,74,0.07%
-Total,100000,
+Country,Count
+Argentina,1758
+Australia,583
+Belgium,8772
+Brazil,8105
+Cameroon,1664
+Canada,210
+Costa Rica,28
+Croatia,722
+Denmark,4496
+Ecuador,31
+England,10104
+France,5031
+Germany,8391
+Ghana,31
+Iran,1377
+Japan,152
+Mexico,3599
+Morocco,4856
+Netherlands,13920
+Poland,454
+Portugal,5891
+Qatar,210
+Saudi Arabia,314
+Senegal,4409
+Serbia,618
+South Korea,2468
+Spain,9598
+Switzerland,776
+Tunisia,409
+United States,840
+Uruguay,109
+Wales,74
