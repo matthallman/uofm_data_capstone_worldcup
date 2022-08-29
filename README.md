@@ -30,10 +30,9 @@ Meet with TA's today and wrap up Database, have .db file but confused on how to 
 
 Update 8/28/22:
 
-Finished Database (created .sqlite file)
+Finished Database (created .sqlite file and sql helper))
 Next steps - 
- - Custom Queries for Database
- - Connect to HTML
+ - Connect to HTML and app.py
  - Add Tableau to HTML 
  - Finish my sections of Write-up
  
