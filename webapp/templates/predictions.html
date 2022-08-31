@@ -15,14 +15,14 @@
 
   <!-- Essential Stylesheets -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i|Open+Sans:400,600,700,800">
-  <link rel="stylesheet" href="/static/plugins/bootstrap/bootstrap.min.css">
-  <link rel="stylesheet" href="/static/plugins/animate.css">
-  <link rel="stylesheet" href="/static/plugins/slick/slick.css">
-  <link rel="stylesheet" href="/static/plugins/slick/slick-theme.css">
-  <link rel="stylesheet" href="/static/plugins/themefisher-fonts/css/themefisher-fonts.min.css">  
+  <link rel="stylesheet" href="static/plugins/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="static/plugins/animate.css">
+  <link rel="stylesheet" href="static/plugins/slick/slick.css">
+  <link rel="stylesheet" href="static/plugins/slick/slick-theme.css">
+  <link rel="stylesheet" href="static/plugins/themefisher-fonts/css/themefisher-fonts.min.css">  
 
   <!-- Main Stylesheet -->
-  <link rel="stylesheet" href="/static/css/style.css">
+  <link rel="stylesheet" href="static/css/style.css">
   
   <!-- Theme Stylesheet -->
   <link rel="stylesheet" href="#" id="color-changer">
@@ -69,7 +69,83 @@
           <div class="col-xs-12 col-lg-offset-1 col-lg-10">
             <div class="page-title text-center">
               <h2>Machine Learning<span class="primary"> Predictions</span> <span class="title-bg">World Cup 2022</span></h2>
-              <p>Place for machine learning model predictions.</p>
+              <p>World Cup Matchup Predictor</p>
+              <p> Select Team One</p>
+              <select name="team1" id="team1">
+                <option value="Qatar">Qatar</option>
+                <option value="Iran">Iran</option>
+                <option value="South Korea">South Korea</option>
+                <option value="Japan">Japan</option>
+                <option value="Saudi Arabia">Saudi Arabia</option>
+                <option value="Australia">Australia</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Senegal">Senegal</option>
+                <option value="Tunisia">Tunisia</option>
+                <option value="Cameroon">Cameroon</option>
+                <option value="Morocco">Morocco</option>
+                <option value="Canada">Canada</option>
+                <option value="Mexico">Mexico</option>
+                <option value="United States">United States</option>
+                <option value="Costa Rica">Costa Rica</option>
+                <option value="Brazil">Brazil</option>
+                <option value="Argentina">Argentina</option>
+                <option value="Ecuador">Ecuador</option>
+                <option value="Uruguay">Uruguay</option>
+                <option value="Germany">Germany</option>
+                <option value="Denmark">Denmark</option>
+                <option value="Belgium">Belgium</option>
+                <option value="France">France</option>
+                <option value="Croatia">Croatia</option>
+                <option value="Spain">Spain</option>
+                <option value="Serbia">Serbia</option>
+                <option value="England">England</option>
+                <option value="Switzerland">Switzerland</option>
+                <option value="Netherlands">Netherlands</option>
+                <option value="Portugal">Portugal</option>
+                <option value="Poland">Poland</option>
+                <option value="Wales">Wales</option>
+              </select>
+              <p> Select Team Two</p>
+              <select name="team2" id="team2">
+                <option value="Qatar">Qatar</option>
+                <option value="Iran">Iran</option>
+                <option value="South Korea">South Korea</option>
+                <option value="Japan">Japan</option>
+                <option value="Saudi Arabia">Saudi Arabia</option>
+                <option value="Australia">Australia</option>
+                <option value="Ghana">Ghana</option>
+                <option value="Senegal">Senegal</option>
+                <option value="Tunisia">Tunisia</option>
+                <option value="Cameroon">Cameroon</option>
+                <option value="Morocco">Morocco</option>
+                <option value="Canada">Canada</option>
+                <option value="Mexico">Mexico</option>
+                <option value="United States">United States</option>
+                <option value="Costa Rica">Costa Rica</option>
+                <option value="Brazil">Brazil</option>
+                <option value="Argentina">Argentina</option>
+                <option value="Ecuador">Ecuador</option>
+                <option value="Uruguay">Uruguay</option>
+                <option value="Germany">Germany</option>
+                <option value="Denmark">Denmark</option>
+                <option value="Belgium">Belgium</option>
+                <option value="France">France</option>
+                <option value="Croatia">Croatia</option>
+                <option value="Spain">Spain</option>
+                <option value="Serbia">Serbia</option>
+                <option value="England">England</option>
+                <option value="Switzerland">Switzerland</option>
+                <option value="Netherlands">Netherlands</option>
+                <option value="Portugal">Portugal</option>
+                <option value="Poland">Poland</option>
+                <option value="Wales">Wales</option>
+              </select>
+              <button type="button" id="predict">Predict Matchup</button>
+            </div>
+            <!-- Where Match Simulator Results will Go -->
+            <div>
+              <p id="results">
+              </p>
             </div>
         </div> <!-- /.col-xs-12 -->
 
@@ -81,7 +157,7 @@
 <div class="flex flex-middle space-between">
   <span class="prev-page"><a href="/" class="link">&larr; Home</a></span>
 
-  <span class="next-page"><a href="about" class="link">Next Page &rarr;</a></span>
+  <span class="next-page"><a href="/about" class="link">Next Page &rarr;</a></span>
 </div>
 </div>
 <!-- /.page-nav -->
@@ -96,13 +172,13 @@
 <!-- 
 Essential Scripts
 =====================================-->
-<script src="/static/plugins/jquery-2.2.4.min.js"></script>
-<script src="/static/plugins/bootstrap/bootstrap.min.js"></script>
-<script src="/static/plugins/jquery.nicescroll.min.js"></script>
-<script src="/static/plugins/isotope/isotope.pkgd.min.js"></script>
-<script src="/static/plugins/slick/slick.min.js"></script>
+<script src="static/plugins/jquery-2.2.4.min.js"></script>
+<script src="static/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="static/plugins/jquery.nicescroll.min.js"></script>
+<script src="static/plugins/isotope/isotope.pkgd.min.js"></script>
+<script src="static/plugins/slick/slick.min.js"></script>
 
-<script src="/static/js/script.js"></script>
+<script src="static/js/prediction_logic.js"></script>
 
 </body>
 </html>

@@ -1,5 +1,5 @@
 from flask import Flask, render_template, redirect, request, jsonify
-# from modelHelper import ModelHelper
+from modelHelper import ModelHelper
 # from sqlHelper import SQLHelper
 import json
 
@@ -7,6 +7,8 @@ import json
 # Create an instance of Flask
 app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+
+modelHelper = ModelHelper()
 
 # Route to render index.html template using data from Mongo
 @app.route("/")
@@ -48,6 +50,18 @@ def project_details():
 def sources():
     # Return template and data
     return render_template("sources.html")
+
+@app.route("/makePredictions", methods=["POST"])
+def make_predictions():
+    content = request.json["data"]
+    print(content)
+    
+    # parse
+    team1 = content["team1"]
+    team2 = content["team2"]
+
+    preds = modelHelper.matchup_simulator(team1,team2)
+    return(jsonify({"ok": True, "prediction": str(preds)}))
 
 #############################################################
 
