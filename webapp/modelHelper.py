@@ -6,7 +6,6 @@ class ModelHelper():
         self.squad_predictions = pd.read_csv('static/data/squad_strength_final.csv', encoding='latin-1')
         
     def matchup_simulator(self, team1, team2, num_sims = 10000):
-        print(team1,team2)
         
         
         # Get Squad Percentages
@@ -25,6 +24,6 @@ class ModelHelper():
         
         S1_win_percent = np.mean(match_results)
         
-        results = (f"{team1} Wins{S1_win_percent: .2%} of the time against {team2} across {num_sims} simulations.")
+        results = (f"{team1} Wins{S1_win_percent: .2%} of the time against {team2} across {num_sims:,} simulations.")
         
         return(results)
