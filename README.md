@@ -1,10 +1,11 @@
-# Group 4 Capstone Project Proposal
+#### Group 4 Capstone Final Project
 
-#### Proposal Requirements:
+The machine learning / predictive analytics portion of the project involved two parts: 1. We used machine learning models & a number of formulas to predict probabilities of a given team winning against another team. 2. Using these probabilities we built out a simulation of the entire World Cup, and ran the simulation 100,000 times. The Netherlands is the team most likely to win the World Cup according to our simulations. Morocco, Mexico, Senegal, and Belgium are some of the teams that our simulation had winning the World Cup more often than what Odds Makers expect. England, France, Brazil, and Argentina are less likely to win the World Cup according to our simulations than when compared to Vegas Odds. The simulation only gives the United States a 40% chance of getting out of the Group Stages - we hope we’re wrong here!
 
-Topic Intro: We want to use previous World Cup data along with our own power metrics to try and make a mock World Cup bracket. We will use machine learning to train the models and predict what the results of the group stage will be, then the elimination rounds.
+The Tableau section consisted of two separate sections; the findings of the Machine Learning and the Historical Tournaments data. The findings of the Machine Learning were showcased against the Vegas odds. Our odds favored less South America teams and had the Netherlands with the highest percentage to win the upcoming World Cup whereas the Vegas odds had Brazil with the best odds. As for our Historical data, we created a story for each of the AFC Asian Cup, AFCON, Copa America, and the Euros. For each story, we explored the attendance, the top scorers per competition, player and team statistics, and top winners by competition/tournament. The Historical data was separate from the Machine Learning and was sourced from Kaggle. The Historical section was more to have viewers’ explore the world of Futbol/Soccer and how big the World Cup is in comparison to the individual tournaments hosted. 
 
-Inspiration: Most of us are sports fans and if not then we are all interested in current events happening around the world. The FIFA World Cup begins this Fall in Qatar and many fans will be tuning in. In 2018 it was estimated that a combined 3.57 billion viewers watched the World Cup which is almost half the world’s population. Throughout the bootcamp we have seen examples of how data science can be applied to sports and we thought we would do something similar. There is a ton of historical data that we can use to build our machine learning model, in hopes to predict certain outcomes within the World Cup.
+
+
 
  
 ### Resources Utilized to Complete Analysis
