@@ -9,6 +9,10 @@ __pycache__/
 # Large Match Data CSV
 
 /ML_Model_Data/CSVs/Predictions/all_knockout_matches.csv
+/DB/Resources/all_knockout_matches.csv
+/DB/knockoutdb.sqlite 
+/DB/WC22db.db.sql
+/DB/WC22db.db
 
 # Distribution / packaging
 .Python
