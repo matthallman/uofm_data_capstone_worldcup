@@ -1,6 +1,6 @@
 from flask import Flask, render_template, redirect, request, jsonify
 from modelHelper import ModelHelper
-# from sqlHelper import SQLHelper
+from sqlHelper import SQLHelper
 import json
 
 
@@ -9,6 +9,7 @@ app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
 modelHelper = ModelHelper()
+sqlHelper = SQLHelper()
 
 # Route to render index.html template using data from Mongo
 @app.route("/")
@@ -45,6 +46,21 @@ def tableau():
 def project_details():
     # Return template and data
     return render_template("project_details.html")
+
+@app.route("/sql_page")
+def sql_table():
+    # Return template and data
+    return render_template("sql_page.html")
+
+@app.route("/getSQL", methods=["POST"])
+def get_sql():
+    content = request.json["data"]
+    print(content)
+    # parse
+    group = content["group"]
+    team = content["team"]
+    df = sqlHelper.getDataFromDatabase(group,team)
+    return(jsonify(json.loads(df.to_json(orient="records"))))
 
 @app.route("/sources")
 def sources():

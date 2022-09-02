@@ -10,20 +10,17 @@ $(document).ready(function() {
 
 // call Flask API endpoint
 function getSQL() {
-    var sex_flag = $("#gender").val();
-    var min_age = $("#min_age").val();
-    var max_age = $("#max_age").val();
-
-
+    var group = $("#group").val();
+    var team = $("#team1").val();
+ 
     // check if inputs are valid
 
     // create the payload
     var payload = {
-        "sex_flag": sex_flag,
-        "min_age": min_age,
-        "max_age": max_age
+        "group": group,
+        "team": team
     }
-
+    console.log(payload)
     // Perform a POST request to the query URL
     $.ajax({
         type: "POST",
@@ -56,18 +53,22 @@ function renderTable(inp_data) {
         html += "<tr>";
 
         // loop through each cell (order matters)
-        html += `<td>${row.PassengerId}</td>`;
-        html += `<td>${row.Survived}</td>`;
-        html += `<td>${row.Pclass}</td>`;
-        html += `<td>${row.Name}</td>`;
-        html += `<td>${row.Sex}</td>`;
-        html += `<td>${row.Age}</td>`;
-        html += `<td>${row.SibSp}</td>`;
-        html += `<td>${row.Parch}</td>`;
-        html += `<td>${row.Ticket}</td>`;
-        html += `<td>${row.Fare}</td>`;
-        html += `<td>${row.Cabin}</td>`;
-        html += `<td>${row.Embarked}</td>`;
+        html += `<td>${row.index}</td>`;
+        html += `<td>${row.match}</td>`;
+        html += `<td>${row.s1_key}</td>`;
+        html += `<td>${row.s2_key}</td>`;
+        html += `<td>${row.group}</td>`;
+        html += `<td>${row.stage}</td>`;
+        html += `<td>${row.squad1}</td>`;
+        html += `<td>${row.s1_perc}</td>`;
+        html += `<td>${row.squad1_seed}</td>`;
+        html += `<td>${row.squad2}</td>`;
+        html += `<td>${row.s2_perc}</td>`;
+        html += `<td>${row.squad2_seed}</td>`;
+        html += `<td>${row.s1_prob}</td>`;        
+        html += `<td>${row.s1_wins}</td>`;
+        html += `<td>${row.simulation}</td>`; 
+        html += `<td>${row.match_winner}</td>`;
 
         // close the row
         html += "</tr>";

@@ -19,3 +19,4 @@ SQLAlchemy==1.4.40
 threadpoolctl==3.1.0
 Werkzeug==2.2.2
 wincertstore==0.2
+sqlite_s3_query==0.0.70  
