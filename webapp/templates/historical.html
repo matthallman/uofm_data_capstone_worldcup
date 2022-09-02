@@ -36,37 +36,74 @@
 <section class="site-wrapper">
   <div class="pt-table">
 
-    <div class="pt-tablecell page-home relative" style="background-image: url('static/images/banner.jpg');">
-      <div class="overlay"></div>      
+    <div class="pt-tablecell page-home relative">
+      <!-- <div class="overlay"></div>       -->
       <a href="./" class="page-close"><i class="tf-ion-close"></i></a>
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-lg-offset-1 col-lg-10">
             <div class="page-title text-center">
               <h2>Historical<span class="primary"> Data</span> <span class="title-bg">World Cup</span></h2>
-              <p>Place to put a searchable database or tableau viz.</p>
+              <p>Tableau Visualizations of Historical Data</p>
             </div>
         </div> <!-- /.col-xs-12 -->
         <div>
-          <div class='tableauPlaceholder' id='viz1661714813856' style='position: relative'><noscript><a href='#'><img alt='Euros pt. 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Eu&#47;Eurospt_2&#47;Eurospt_2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Eurospt_2&#47;Eurospt_2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Eu&#47;Eurospt_2&#47;Eurospt_2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1661714813856');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1150px';vizElement.style.height='887px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-           <script type='text/javascript'>                    
-              </script>        <script type='text/javascript'>
-              var divElement = document.getElementById('viz1661714813856');
-              var vizElement = divElement.getElementsByTagName('object')[0];
-              if (divElement.offsetWidth > 800) {
-                  vizElement.style.width = '100%';
-                  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-              } else if (divElement.offsetWidth > 500) {
-                  vizElement.style.width = '100%';
-                  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-              } else {
-                  vizElement.style.width = '100%';
-                  vizElement.style.height = '1227px';
+          <div class='tableauPlaceholder' id='tableauViz' style='position: relative'><noscript><a href='#'><img alt='Euros pt. 2 ' 
+            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Eu&#47;Eurospt_2&#47;Eurospt_2&#47;1_rss.png' style='border: none' />
+          </a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' 
+            value='3' /> <param name='site_root' value='' /><param name='name' value='Eurospt_2&#47;Eurospt_2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' />
+            <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Eu&#47;Eurospt_2&#47;Eurospt_2&#47;1.png' /> 
+            <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' />
+            <param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+            <script type='text/javascript'>                    var divElement = document.getElementById('viz1661714813856');                    
+              var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1150px';vizElement.style.height='887px';                    
+              var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+              vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+          <script type='text/javascript' src= "https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+      <script type="text/javascript">
+        var vizList = ['https://public.tableau.com/views/AFCON_16615531415860/AFCON?:language=en-US&:display_count=n&:origin=viz_share_link',
+        'https://public.tableau.com/views/CopaAmerica_16615289818440/HostsChamps_?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link',
+        'https://public.tableau.com/views/CopaAmericapt_2/HistoricalScoring?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link',
+        'https://public.tableau.com/views/AFCAsianCup/AFCAsianCup?:language=en-US&:display_count=n&:origin=viz_share_link',
+        'https://public.tableau.com/views/Euros_16615726261390/Euros?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link',
+        'https://public.tableau.com/views/Eurospt_2/Eurospt_2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link'];
+  
+          var viz,
+              vizLen = vizList.length,
+              vizCount = 0;
+  
+          function createViz(vizPlusMinus) {
+              var vizDiv = document.getElementById("vizContainer"),
+                  options = {
+                      hideTabs: true
+                  };
+  
+              vizCount = vizCount + vizPlusMinus;
+  
+              if (vizCount >= vizLen) {
+              // Keep the vizCount in the bounds of the array index.
+                  vizCount = 0;
+              } else if (vizCount < 0) {
+                  vizCount = vizLen - 1;
               }
-              var scriptElement = document.createElement('script');
-              scriptElement.src = 'https://public.tableau.com/views/Eurospt_2/Eurospt_2';
-              vizElement.parentNode.insertBefore(scriptElement, vizElement);
-          </script>
+  
+              if (viz) { // If a viz object exists, delete it.
+                  viz.dispose();
+              }
+  
+              var vizURL = vizList[vizCount];
+              viz = new tableau.Viz(vizDiv, vizURL, options);
+          }
+      </script>
+  </head>
+  
+  <body onload="createViz(0);">
+      <div id="vizContainer" style="width:1150px; height:870px;"></div>
+      <div id="controls" style="padding:250px;">
+          <button style="width:100px;" onclick="javascript:createViz(-1);">Previous</button>
+          <button style="width:100px;" onclick="javascript:createViz(1);">Next</button>
+        </div>
+    </div>
     </div> <!-- /.row -->
   </div> <!-- /.container -->
 
@@ -97,6 +134,7 @@ Essential Scripts
 <script src="/static/plugins/slick/slick.min.js"></script>
 
 <script src="/static/js/script.js"></script>
+<script src="/static/js/historical_api.js"></script>
 
 </body>
 </html>

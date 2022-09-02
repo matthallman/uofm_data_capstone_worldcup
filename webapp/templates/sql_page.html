@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>US Knockout Database</title>
+    <!-- Boostrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/minty/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <!-- JS -->
+    <script type="text/javascript" src="static/js/sql.js"></script>
+</head>
+<body>
+    <!-- <a href="./" class="page-close"><i class="tf-ion-close"></i></a>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <a class="navbar-brand" href="#"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#"><h1>Knockout Round Queries</h1>
+                <span class="sr-only">(current)</span>
+              </a> -->
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <section class="site-wrapper">
+        <!-- <div class="pt-table">
+          <div class="pt-tablecell page-home relative" style="background-image: url('static/images/banner.jpg');">
+            <div class="overlay"></div>      
+            <!-- <a href="./" class="page-close"><i class="tf-ion-close"></i></a> -->
+            <!-- <div class="container">
+              <div class="row"> -->
+                  <div class="page-title text-center">
+                    <br>
+                    <h2>Knockout<span class="primary"> Database</span> <span class="title-bg">World Cup 2022</span></h2>
+                    <br>
+    <a href="project_details" class="link">Next Page &rarr;</a>
+    <p>Team knockout database </p></a>
+    <hr style="color:lightgray; border-width: 3px;">
+    <div class="container">
+        <div class="card border-primary mb-3" style="max-width: 20rem;">
+            <div class="card-header">US Knockout Filters</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="col-form-label" for="group">Group</label>
+                            <select id="group">
+                                <option value='"R16","R8","Semi-Finals","Finals"'>All</option>
+                                <option value='"R16"'>R16</option>
+                                <option value='"R8"'>R8</option>
+                                <option value='"Semi-Finals"'>Semi-Finals</option>
+                                <option value='"Finals"'>Finals</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="col-form-label" for="team1">Team</label>
+                            <select name="team1" id="team1">
+                                <option value="Qatar">Qatar</option>
+                                <option value="Iran">Iran</option>
+                                <option value="South Korea">South Korea</option>
+                                <option value="Japan">Japan</option>
+                                <option value="Saudi Arabia">Saudi Arabia</option>
+                                <option value="Australia">Australia</option>
+                                <option value="Ghana">Ghana</option>
+                                <option value="Senegal">Senegal</option>
+                                <option value="Tunisia">Tunisia</option>
+                                <option value="Cameroon">Cameroon</option>
+                                <option value="Morocco">Morocco</option>
+                                <option value="Canada">Canada</option>
+                                <option value="Mexico">Mexico</option>
+                                <option value="United States">United States</option>
+                                <option value="Costa Rica">Costa Rica</option>
+                                <option value="Brazil">Brazil</option>
+                                <option value="Argentina">Argentina</option>
+                                <option value="Ecuador">Ecuador</option>
+                                <option value="Uruguay">Uruguay</option>
+                                <option value="Germany">Germany</option>
+                                <option value="Denmark">Denmark</option>
+                                <option value="Belgium">Belgium</option>
+                                <option value="France">France</option>
+                                <option value="Croatia">Croatia</option>
+                                <option value="Spain">Spain</option>
+                                <option value="Serbia">Serbia</option>
+                                <option value="England">England</option>
+                                <option value="Switzerland">Switzerland</option>
+                                <option value="Netherlands">Netherlands</option>
+                                <option value="Portugal">Portugal</option>
+                                <option value="Poland">Poland</option>
+                                <option value="Wales">Wales</option>
+                              </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <button type="button" class="btn btn-primary" id="filter">Query Database!</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr style="color:lightgray; border-width: 3px;">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <table id="sql_table" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>index</th>
+                            <th>Match</th>
+                            <th>Squad 1 Key</th>
+                            <th>Squad 2 Key</th>
+                            <th>Group</th>
+                            <th>Stage</th>
+                            <th>Squad 1</th>
+                            <th>S1%</th>
+                            <th>Squad 1 Seed</th>
+                            <th>Squad 2</th>
+                            <th>S2%</th>
+                            <th>Squad 2 Seed</th>
+                            <th>S1_Prob</th>
+                            <th>S1_wins</th>
+                            <th>Simulation</th>
+                            <th>Match Winner</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- <nav class="page-nav clear">
+        <div class="container">
+        <div class="flex flex-middle space-between">
+          <span class="prev-page"><a href="tableau" class="link">&larr; Prev Page</a></span>
+        
+          <span class="next-page"><a href="project_details" class="link">Next Page &rarr;</a></span>
+        </div> -->
+        </div>
+</body>
+</html>

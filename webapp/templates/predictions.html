@@ -60,7 +60,7 @@
 
 <section class="site-wrapper">
   <div class="pt-table">
-    <div class="pt-tablecell page-home relative" style="background-image: url('static/images/groups.jpeg');">
+    <div class="pt-tablecell page-home relative" style="background-image: url('static/images/banner.jpg');">
       <div class="overlay"></div>
   
       <a href="./" class="page-close"><i class="tf-ion-close"></i></a>
@@ -69,9 +69,9 @@
           <div class="col-xs-12 col-lg-offset-1 col-lg-10">
             <div class="page-title text-center">
               <h2>Machine Learning<span class="primary"> Predictions</span> <span class="title-bg">World Cup 2022</span></h2>
-              <p> A detailed description of the machine learning model and the data used can be found in the project details page. </p>
-              <p>World Cup Matchup Predictor <br> <small> Select two teams and predict the match winner!</small></p>
-              <p> Select Team One</p>
+              <p style="color:#1077C3"> A detailed description of the machine learning model and the data used can be found in the project details page. </p>
+              <p style="color:#1077C3"><h1>World Cup Matchup Predictor</h1> <br><h3>Select two teams to simulate 10,000 matches and predict the winner!</h3></p>
+              <p style="color:#56042C"> <h3>Select Team One</h3></p>
               <select name="team1" id="team1">
                 <option value="Qatar">Qatar</option>
                 <option value="Iran">Iran</option>
@@ -106,7 +106,8 @@
                 <option value="Poland">Poland</option>
                 <option value="Wales">Wales</option>
               </select>
-              <p> Select Team Two</p>
+              <br>
+              <p style="color:#49BCE3"> <h3>Select Team Two</h3></p>
               <select name="team2" id="team2">
                 <option value="Qatar">Qatar</option>
                 <option value="Iran">Iran</option>
@@ -142,12 +143,15 @@
                 <option value="Wales">Wales</option>
               </select>
               <br>
-              <button type="button" id="predict">Predict Matchup</button>
+              <br>
+              <button type="button" id="predict"><p style=color:#56042C>Predict Matchup </button>
             </div>
             <!-- Where Match Simulator Results will Go -->
             <div>
-              <p id="results">
+              <div class="page-title text-center">
+              <p style="color:#56042C" id="results">
               </p>
+            </div>
             </div>
         </div> <!-- /.col-xs-12 -->
     </div> <!-- /.row -->
@@ -158,7 +162,7 @@
 <div class="flex flex-middle space-between">
   <span class="prev-page"><a href="/" class="link">&larr; Home</a></span>
 
-  <span class="next-page"><a href="/about" class="link">Next Page &rarr;</a></span>
+  <span class="next-page"><a href="about" class="link">Next Page &rarr;</a></span>
 </div>
 </div>
 <!-- /.page-nav -->
@@ -173,13 +177,13 @@
 <!-- 
 Essential Scripts
 =====================================-->
-<script src="static/plugins/jquery-2.2.4.min.js"></script>
-<script src="static/plugins/bootstrap/bootstrap.min.js"></script>
-<script src="static/plugins/jquery.nicescroll.min.js"></script>
-<script src="static/plugins/isotope/isotope.pkgd.min.js"></script>
-<script src="static/plugins/slick/slick.min.js"></script>
+<script src="/static/plugins/jquery-2.2.4.min.js"></script>
+<script src="/static/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="/static/plugins/jquery.nicescroll.min.js"></script>
+<script src="/static/plugins/isotope/isotope.pkgd.min.js"></script>
+<script src="/static/plugins/slick/slick.min.js"></script>
 
-<script src="static/js/prediction_logic.js"></script>
+<script src="/static/js/prediction_logic.js"></script>
 
 </body>
 </html>
